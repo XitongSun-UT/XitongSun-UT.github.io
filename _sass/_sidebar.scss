@@ -120,14 +120,14 @@
 }
 
 .author__name {
-  margin: 16px;
+  margin-top: 8px;      
+  margin-bottom: 18px;  
 
   @include breakpoint($large) {
-    margin-top: 16px;
-    margin-bottom: 16px;
+    margin-top: 10px;
+    margin-bottom: 20px;
   }
 }
-
 .sidebar .author__name {
   @include breakpoint($medium) {
     font-size: $type-size-3;

@@ -22,7 +22,7 @@ baidu_site_verification  :
 # Site Author
 author:
   name             : "Xitong Sun"
-  avatar           : "/images/profile.jpg"
+  avatar           : "images/profile.jpg"
   bio              : 
   location         : "Austin, Texas"
   employer         : 

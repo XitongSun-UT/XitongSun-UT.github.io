@@ -25,7 +25,7 @@ author:
   avatar           : "images/profile.jpg"
   bio              : "PhD student in Mechanical Engineering at The University of Texas at Austin.  My research interests include MEMS, gas sensors, and power electronics."
   location         : "Austin, Texas"
-  employer         : "The University of Texas at Austin"
+  # employer         : "The University of Texas at Austin"
   pubmed           :
   googlescholar    :
   email            : "xitongsun@utexas.edu"

@@ -55,5 +55,5 @@ My research interest includes neural machine translation and computer vision. I 
 
 <span class='anchor' id='play-hard'></span>
 
-# 😛 Play Hard
+# 😎 Play Hard
 Outside research, I enjoy classical music—especially Sibelius Violin Concerto—as well as watching basketball and football games.

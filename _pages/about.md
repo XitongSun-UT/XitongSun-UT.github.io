@@ -47,8 +47,8 @@ Looking ahead, I plan to apply for <strong>PhD</strong> programs in
 
 <span class='anchor' id='education'></span>
 # 📖 Education
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2025.08 - now*, Ph.D. Student in Mechanical Engineering, The University of Texas at Austin(UT). 
+- *2021.09 - 2025.07*, B.E. in Microelectronics Science and Engineering, Southern University of Science and Technology(SUSTech).
 
 <span class='anchor' id='research-and-publications'></span>
 # 📝 Reasearch and Publications 

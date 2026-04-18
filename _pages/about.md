@@ -22,9 +22,20 @@ Hey! Glad you’re here.
 I’m Xitong Sun, a first-year <strong>PhD</strong> student in <strong>Mechanical Engineering</strong> at <strong>University of Texas at Austin</strong>.
 
 I received my B.E. degree in Microelectronics Science and Engineering in July 2025 at <strong>Southern University of Science and Technology</strong>, (<strong>SUSTech</strong>), a young university established in 2010 in Shenzhen, China 
-(<a href="https://www.nature.com/articles/nature.2012.10631" target="_blank">a short story about it</a>).
+(<a href="https://www.nature.com/articles/nature.2012.10631" target="_blank">a short story about it</a>). During my undergraduate studies, I conducted research on MEMS-based gas sensors under the supervision of 
+<a href="https://scholar.google.com/citations?hl=en&user=xd7lNYEAAAAJ" target="_blank">Prof. Fei Wang</a>.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
+
+
+
+
+
+
+
+
+
+
 
 <span class='anchor' id='education'></span>
 # 📖 Education

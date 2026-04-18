@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hey! Glad you’re here.
+Hey! Glad you’re here!
 
 I’m Xitong Sun, a first-year <strong>PhD</strong> student in <strong>Mechanical Engineering</strong> at <strong>University of Texas at Austin</strong>.
 

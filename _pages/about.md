@@ -25,9 +25,11 @@ I received my B.E. degree in Microelectronics Science and Engineering in July 20
 (<a href="https://www.nature.com/articles/nature.2012.10631" target="_blank">a short story about it</a>). During my undergraduate studies, I conducted research on MEMS-based gas sensors under the supervision of 
 <a href="https://scholar.google.com/citations?hl=en&user=xd7lNYEAAAAJ" target="_blank">Prof. Fei Wang</a>.
 
+In August 2025, I was proud to join <strong>the University of Texas at Austin</strong> as a member of the <strong>Longhorns</strong> and begin my PhD studies in <strong>Mechanical Engineering</strong>. Since then, I have explored a range of research areas, and my current interests focus on <strong>advanced modeling and control techniques for high-performance power electronics</strong>, as well as emerging <strong>power electronics based on piezoelectric passive components</strong>.
 
+I have experience in <strong>IC-level</strong> design and simulation (e.g., COMSOL), <strong>system-level</strong> design and prototyping (e.g., KiCad, PLECS), as well as <strong>cleanroom-based</strong> device fabrication.
 
-
+Looking ahead, I plan to apply for <strong>PhD</strong> programs in <strong>Fall 2027</strong>, with a focus on <strong>Power Electronics</strong>!
 
 
 

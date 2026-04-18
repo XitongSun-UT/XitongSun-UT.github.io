@@ -50,15 +50,6 @@ Looking ahead, I plan to apply for <strong>PhD</strong> programs in
 </p>
 
 
-p {
-  margin-bottom: 18px;
-  line-height: 1.6;
-  text-align: justify;
-  text-align-last: left;
-}
-
-
-
 
 
 <span class='anchor' id='education'></span>

@@ -47,8 +47,8 @@ Looking ahead, I plan to apply for <strong>PhD</strong> programs in
 
 <span class='anchor' id='education'></span>
 # 📖 Education
-- *2025.08 - now*, Ph.D. Student in Mechanical Engineering, The University of Texas at Austin(UT). 
-- *2021.08 - 2025.07*, B.E. in Microelectronics Science and Engineering, Southern University of Science and Technology(SUSTech).
+- *2025.08 - now*, Ph.D. Student in Mechanical Engineering, The University of Texas at Austin (UT). 
+- *2021.08 - 2025.07*, B.E. in Microelectronics Science and Engineering, Southern University of Science and Technology (SUSTech).
 
 <span class='anchor' id='research-and-publications'></span>
 # 📝 Reasearch and Publications 

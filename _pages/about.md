@@ -30,8 +30,8 @@ a young university established in 2010 in Shenzhen, China
 During my undergraduate studies, I conducted research on MEMS-based gas sensors under the supervision of 
 <a href="https://scholar.google.com/citations?hl=en&user=xd7lNYEAAAAJ" target="_blank">Prof. Fei Wang</a>.
 
-In August 2025, I was proud to join <strong>the University of Texas at Austin</strong> as a member of the 
-<strong>Longhorns</strong> and begin my PhD studies in <strong>Mechanical Engineering</strong>. 
+In August 2025, I was proud to join the University of Texas at Austin as a member of the 
+longhorns and begin my PhD studies in Mechanical Engineering. 
 Since then, I have explored a range of research areas, and my current interests focus on 
 <strong>advanced modeling and control techniques for high-performance power electronics</strong>, 
 as well as emerging <strong>power electronics based on piezoelectric passive components</strong>.

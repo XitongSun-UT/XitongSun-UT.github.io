@@ -31,7 +31,7 @@ During my undergraduate studies, I conducted research on MEMS-based gas sensors 
 <a href="https://scholar.google.com/citations?hl=en&user=xd7lNYEAAAAJ" target="_blank">Prof. Fei Wang</a>.
 
 In August 2025, I was proud to join the University of Texas at Austin as a member of the 
-longhorns and begin my PhD studies in Mechanical Engineering. 
+longhorns and begin my M.S./Ph.D studies in Mechanical Engineering. 
 Since then, I have explored a range of research areas, and my current interests focus on 
 <strong>advanced modeling and control techniques for high-performance power electronics</strong>, 
 as well as emerging <strong>power electronics based on piezoelectric passive components</strong>.
@@ -40,7 +40,7 @@ I have experience in <strong>IC-level</strong> design and simulation (e.g., Cade
 <strong>system-level</strong> design and prototyping (e.g., KiCad, PLECS), 
 as well as <strong>cleanroom-based</strong> device fabrication.
 
-Looking ahead, I plan to apply for <strong>PhD</strong> programs in 
+Looking ahead, I plan to re-apply for <strong>PhD</strong> programs in 
 <strong>Fall 2027</strong>, with a focus on <strong>Power Electronics</strong>!
 
 

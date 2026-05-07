@@ -26,7 +26,7 @@ I’m Xitong Sun, a first-year <strong>PhD</strong> student in
 I received my B.E. degree in Microelectronics Science and Engineering in July 2025 at 
 <strong>Southern University of Science and Technology</strong> (<strong>SUSTech</strong>), 
 a young university established in 2010 in Shenzhen, China 
-(<a href="https://www.nature.com/articles/nature.2012.10631" target="_blank">a short story about it</a>). 
+(<a href="https://www.nature.com/articles/nature.2012.10631" target="_blank">a short story about SUSTech</a>). 
 During my undergraduate studies, I conducted research on MEMS-based gas sensors under the supervision of 
 <a href="https://scholar.google.com/citations?hl=en&user=xd7lNYEAAAAJ" target="_blank">Prof. Fei Wang</a>.
 

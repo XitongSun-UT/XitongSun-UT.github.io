@@ -36,7 +36,7 @@ Since then, I have explored a range of research areas, and my current interests 
 <strong>advanced modeling and control techniques for high-performance power electronics</strong>, 
 as well as emerging <strong>power electronics based on piezoelectric passive components</strong>.
 
-I have experience in <strong>IC-level</strong> design and simulation (e.g., COMSOL), 
+I have experience in <strong>IC-level</strong> design and simulation (e.g., Cadence Virtuoso), 
 <strong>system-level</strong> design and prototyping (e.g., KiCad, PLECS), 
 as well as <strong>cleanroom-based</strong> device fabrication.
 

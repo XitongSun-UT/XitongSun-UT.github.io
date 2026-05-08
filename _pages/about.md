@@ -62,7 +62,7 @@ Please feel free to contact me at **xitongsun@utexas.edu**
 <div class='paper-box-image'>
 <div>
 <div class="badge">Transducers 2025</div>
-<img src='images/transducers2025.png' alt="Transducers 2025 paper figure" width="100%">
+<img src='images/transducers.png' alt="Transducers 2025 paper figure" width="100%">
 </div>
 </div>
 

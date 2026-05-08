@@ -68,7 +68,7 @@ Please feel free to contact me at **xitongsun@utexas.edu**
 
 <div class='paper-box-text' markdown="1">
 
-[Paper Title of Your Transducers 2025 Work](#)
+[MEMS Gas Sensor Arrays with Multilayer of Nanomaterials Patterned by Wafer-Level Photolithography Process](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xz5gCMgAAAAJ&citation_for_view=xz5gCMgAAAAJ:9yKSN-GCB0IC)
 
 **Xitong Sun**, Co-author A, Co-author B, Co-author C
 

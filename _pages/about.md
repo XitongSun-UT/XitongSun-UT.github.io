@@ -72,7 +72,7 @@ Please feel free to contact me at **xitongsun@utexas.edu**
 
 [**Paper**](#)
 
-- This work focuses on the design, fabrication, and experimental characterization of a MEMS-based gas sensor array. The sensor platform was developed using photolithography-based microfabrication, with device design and performance analysis supported by simulation and gas-sensing measurements.
+- This work, for the first time, realized the patterning of different gas-sensing materials through multiple photolithography steps, and combined the sensor array with a support vector machine (SVM) algorithm to accurately identify different gases and concentrations.
 
 </div>
 </div>

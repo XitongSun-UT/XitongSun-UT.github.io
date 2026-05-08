@@ -37,7 +37,7 @@ Since then, I have explored a range of research areas, and my current interests 
 as well as emerging <strong>power electronics based on piezoelectric passive components</strong>.
 
 I have experience in <strong>IC-level</strong> design and simulation (e.g., Cadence Virtuoso), 
-<strong>system-level</strong> design and prototyping (e.g., KiCad, PLECS), 
+<strong>system-level</strong> design and prototyping (e.g., KiCad, PLECS, Code Composer Studio (CCS)), 
 as well as <strong>cleanroom-based</strong> device fabrication.
 
 Looking ahead, I plan to re-apply for <strong>PhD</strong> programs in 

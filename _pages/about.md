@@ -88,7 +88,13 @@ Please feel free to contact me at **xitongsun@utexas.edu**
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [MEMS Gas Sensor Arrays with Multilayer of Nanomaterials Patterned by Wafer-Level Photolithography Process](https://doi.org/10.1109/Transducers61432.2025.11110438), **X. Sun**, J. Li, T. Cheng, and F. Wang, **Transducers 2025**, Orlando, FL, USA, pp. 1061–1064
+
+- [MEMS Gas Sensor with On-chip Electrospun Ru-SnO₂ Nanospheres Patterned by Photolithography](https://doi.org/10.1109/SENSORS60989.2024.10784716), J. Li, **X. Sun**, T. Cheng, and F. Wang, **IEEE SENSORS 2024**, Kobe, Japan, pp. 1–4
+
+- [MEMS Acetone Gas Sensors with Eu-doped SnO₂/In₂O₃ Nanofibers Using Electrospinning and Lithography Patterning Technique](https://doi.org/10.1109/SENSORS60989.2024.10785144), T. Cheng, J. Li, G. Niu, **X. Sun**, and F. Wang, **IEEE SENSORS 2024**, Kobe, Japan, pp. 1–4
+
+- [MEMS Gas Sensors with Metal-Oxide Semiconductor Materials Patterned at Wafer-Level by Photolithography Technique](https://doi.org/10.1109/SENSORS56945.2023.10324896), X. Liu, G. Niu, J. Li, Y. Zhuang, **X. Sun**, and F. Wang, **IEEE SENSORS 2023**, Vienna, Austria, pp. 1–4
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards

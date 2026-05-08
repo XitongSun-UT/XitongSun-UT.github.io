@@ -46,13 +46,39 @@ Looking ahead, I plan to re-apply to <strong>PhD</strong> programs in
 Please feel free to contact me at **xitongsun@utexas.edu**
 
 
+
+
 <span class='anchor' id='education'></span>
 # 📖 Education
 - *2025.08 - now*, Ph.D. Student in Mechanical Engineering, The University of Texas at Austin (UT). 
 - *2021.08 - 2025.07*, B.E. in Microelectronics Science and Engineering, Southern University of Science and Technology (SUSTech).
 
+
+
 <span class='anchor' id='research-and-publications'></span>
 # 📝 Research and Publications 
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">Transducers 2025</div>
+<img src='images/transducers2025.png' alt="Transducers 2025 paper figure" width="100%">
+</div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+[Paper Title of Your Transducers 2025 Work](#)
+
+**Xitong Sun**, Co-author A, Co-author B, Co-author C
+
+[**Paper**](#)
+
+- This work focuses on the design, fabrication, and experimental characterization of a MEMS-based gas sensor array. The sensor platform was developed using photolithography-based microfabrication, with device design and performance analysis supported by simulation and gas-sensing measurements.
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

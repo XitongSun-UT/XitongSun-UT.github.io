@@ -70,8 +70,6 @@ Please feel free to contact me at **xitongsun@utexas.edu**
 
 [MEMS Gas Sensor Arrays with Multilayer of Nanomaterials Patterned by Wafer-Level Photolithography Process](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xz5gCMgAAAAJ&citation_for_view=xz5gCMgAAAAJ:9yKSN-GCB0IC)
 
-**Xitong Sun**, Co-author A, Co-author B, Co-author C
-
 [**Paper**](#)
 
 - This work focuses on the design, fabrication, and experimental characterization of a MEMS-based gas sensor array. The sensor platform was developed using photolithography-based microfabrication, with device design and performance analysis supported by simulation and gas-sensing measurements.

@@ -43,7 +43,7 @@ as well as <strong>cleanroom-based</strong> device fabrication.
 Looking ahead, I plan to re-apply to <strong>PhD</strong> programs in 
 <strong>Fall 2027</strong>, with a focus on <strong>Power Electronics</strong>!
 
-Please feel free to contact me at xitongsun@utexas.edu
+Please feel free to contact me at **xitongsun@utexas.edu**
 
 
 <span class='anchor' id='education'></span>

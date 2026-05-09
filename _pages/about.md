@@ -136,7 +136,14 @@ Advised by Prof. [Yicheng Zhu](https://scholar.google.com/citations?user=XdHExrY
 <span class='anchor' id='play-hard'></span>
 
 # 😎 Play Hard
-Outside research, I enjoy classical music—especially Sibelius Violin Concerto—as well as watching basketball and football games.
+
+In my free time, I enjoy playing basketball. I proudly support the Houston Rockets and the Texas Longhorns. My favorite player is Kevin Durant — graduated from UT and now play for Houston Rockets.
+
+<div style="display: flex; gap: 12px; justify-content: center; align-items: center; flex-wrap: wrap; margin-top: 16px;">
+  <img src="images/basketball1.jpg" alt="Playing basketball" style="width: 30%; min-width: 180px;">
+  <img src="images/basketball2.jpg" alt="Houston Rockets" style="width: 30%; min-width: 180px;">
+  <img src="images/basketball3.jpg" alt="Texas Longhorns" style="width: 30%; min-width: 180px;">
+</div>
 
 
 <span class='anchor' id='comments'></span>

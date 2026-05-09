@@ -168,7 +168,8 @@ I'm also a bif fan of classical music. I spent four joyful years with the SUSTec
 
 I also love traveling and exploring different landscapes. Yosemite is my favorite national park.
 
-</div>
+<div style="height: 18px;"></div>
+
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-top: 16px;">
   <img src="images/travel1.jpg" alt="Travel landscape 1" style="width: 100%; height: 220px; object-fit: cover;">
@@ -177,10 +178,11 @@ I also love traveling and exploring different landscapes. Yosemite is my favorit
   <img src="images/travel4.jpg" alt="Travel landscape 4" style="width: 100%; height: 220px; object-fit: cover;">
   <img src="images/travel5.jpg" alt="Travel landscape 5" style="width: 100%; height: 220px; object-fit: cover;">
   <img src="images/travel6.jpg" alt="Travel landscape 6" style="width: 100%; height: 220px; object-fit: cover;">
-  <div style="height: 32px;">
+</div>
+
+<div style="height: 36px;"></div>
 
 <span class='anchor' id='comments'></span>
-</div>
 
 # 💬 Suggestions
 <script src="https://giscus.app/client.js"

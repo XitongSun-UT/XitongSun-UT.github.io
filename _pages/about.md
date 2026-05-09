@@ -145,6 +145,15 @@ In my free time, I enjoy playing basketball. I proudly support the Houston Rocke
   <img src="images/basketball3.jpg" alt="Texas Longhorns" style="width: 30%; min-width: 180px;">
 </div>
 
+I'm also a bif fan of classical music. I spent four joyful years with the SUSTech Philharmonic, and one year as orchestra president. I participated in more than 20 performances. I also enjoy attending concerts and have heard performances by the San Francisco Symphony Orchestra, New York Philharmonic, and National Symphony Orchestra. My favorite piece is Sibelius’s Violin Concerto in D minor.
+
+<div style="display: flex; gap: 12px; justify-content: center; align-items: center; flex-wrap: wrap; margin-top: 16px;">
+  <img src="images/orchestra1.jpg" alt="SUSTech Symphony Orchestra performance" style="width: 30%; min-width: 180px;">
+  <img src="images/orchestra2.jpg" alt="SUSTech Symphony Orchestra memory" style="width: 30%; min-width: 180px;">
+  <img src="images/orchestra3.jpg" alt="Classical music performance" style="width: 30%; min-width: 180px;">
+</div>
+
+
 
 <span class='anchor' id='comments'></span>
 # 💬 Suggestions

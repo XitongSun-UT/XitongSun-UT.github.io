@@ -92,7 +92,7 @@ Advised by Prof. [Ruochen Lu](https://scholar.google.com/citations?hl=en&user=yJ
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ongoing Research</div><img src='images/power.jpg' alt="advanced modeling and control techniques for power electronics" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ongoing Research</div><img src='images/Power.jpg' alt="advanced modeling and control techniques for power electronics" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Advanced Modeling and Control Techniques for Multiphase Buck-Type Power Converters**

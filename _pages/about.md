@@ -179,6 +179,7 @@ I also love traveling and exploring different landscapes. Yosemite is my favorit
   <img src="images/travel4.jpg" alt="Travel landscape 4" style="width: 100%; height: 220px; object-fit: cover;">
   <img src="images/travel5.jpg" alt="Travel landscape 5" style="width: 100%; height: 220px; object-fit: cover;">
   <img src="images/travel6.jpg" alt="Travel landscape 6" style="width: 100%; height: 220px; object-fit: cover;">
+  <div style="height: 32px;">
 </div>
 
 <span class='anchor' id='comments'></span>

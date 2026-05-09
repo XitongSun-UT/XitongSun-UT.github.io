@@ -123,8 +123,15 @@ Advised by Prof. [Yicheng Zhu](https://scholar.google.com/citations?user=XdHExrY
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.03:* Joined Prof. Ruochen Lu’s RAM Lab at UT. Grateful for this opportunity!
+- *2025.08:* Started my Ph.D. studies in Mechanical Engineering at The University of Texas at Austin!
+- *2025.08:* Awarded the Cockrell School of Engineering Fellowship at The University of Texas at Austin.
+- *2025.07:* Received my B.E. degree from SUSTech. Deeply grateful to Prof. Fei Wang and all members of the MEMS Group. I will always cherish my wonderful time at SUSTech.
+- *2025.06:* Received the Outstanding Undergraduate Graduate and Outstanding Undergraduate Thesis awards from Southern University of Science and Technology.
+- *2025.06:* My paper on MEMS gas sensor arrays was presented at Transducers 2025 in Orlando, Florida.
+- *2024.12:* Awarded the National Scholarship!
+- *2024.10:* My paper on MEMS gas sensors was presented at IEEE SENSORS 2024 in Kobe, Japan.
+
 
 <span class='anchor' id='play-hard'></span>
 

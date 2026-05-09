@@ -138,7 +138,7 @@ Advised by Prof. [Yicheng Zhu](https://scholar.google.com/citations?user=XdHExrY
 # 😎 Play Hard
 I graduated from Southern University of Science and Technology in 2025. I am deeply grateful to all the teachers, friends and family members who supported me along the way. SUSTech gave me countless precious memories, I will keep these precious memories in my heart forever.
 
-<div style="height: 10px;"></div>
+</div>
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin-top: 16px;">
   <img src="images/sustech1.jpg" alt="SUSTech memory 1" style="width: 100%; height: 260px; object-fit: contain;">
@@ -170,7 +170,7 @@ I'm also a bif fan of classical music. I spent four joyful years with the SUSTec
 
 I also love traveling and exploring different landscapes. Yosemite is my favorite national park.
 
-<div style="height: 10px;"></div>
+</div>
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-top: 16px;">
   <img src="images/travel1.jpg" alt="Travel landscape 1" style="width: 100%; height: 220px; object-fit: cover;">

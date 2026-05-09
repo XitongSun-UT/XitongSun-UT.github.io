@@ -110,3 +110,22 @@ Please feel free to contact me at **xitongsun@utexas.edu**
 
 # 😎 Play Hard
 Outside research, I enjoy classical music—especially Sibelius Violin Concerto—as well as watching basketball and football games.
+
+
+<span class='anchor' id='comments'></span>
+# 💬 Suggestions
+<script src="https://giscus.app/client.js"
+        data-repo="XitongSun-UT/XitongSun-UT.github.io"
+        data-repo-id="R_kgDOSE9zlw"
+        data-category="General"
+        data-category-id="DIC_kwDOSE9zl84C8ol_"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>

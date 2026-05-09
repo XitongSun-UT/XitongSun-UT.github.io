@@ -68,7 +68,7 @@ Please feel free to contact me at **xitongsun@utexas.edu**
 
 <div class='paper-box-text' markdown="1">
 
-**[MEMS Gas Sensor Arrays with Multilayer of Nanomaterials Patterned by Wafer-Level Photolithography Process]**(https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xz5gCMgAAAAJ&citation_for_view=xz5gCMgAAAAJ:9yKSN-GCB0IC)
+[**MEMS Gas Sensor Arrays with Multilayer of Nanomaterials Patterned by Wafer-Level Photolithography Process**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xz5gCMgAAAAJ&citation_for_view=xz5gCMgAAAAJ:9yKSN-GCB0IC)
 
 Advised by Prof. [Fei Wang](https://scholar.google.com/citations?hl=en&user=xd7lNYEAAAAJ)
 

@@ -19,7 +19,7 @@ redirect_from:
 
 Hey! Glad you’re here!
 
-I’m Xitong Sun, a first-year <strong>PhD</strong> student in 
+I’m Xitong Sun, a first-year <strong>M.S./Ph.D</strong> student in 
 <strong>Mechanical Engineering</strong> at 
 <strong>University of Texas at Austin</strong>.
 

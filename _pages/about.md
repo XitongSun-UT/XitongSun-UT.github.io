@@ -118,7 +118,7 @@ Advised by Prof. [Yicheng Zhu](https://scholar.google.com/citations?user=XdHExrY
 - *2025* Cockrell School of Engineering Fellowship, The University of Texas at Austin
 - *2025* Outstanding Undergraduate Graduate/Outstanding Undergraduate Thesis, Southern University of Science and Technology
 - *2024* National Scholarship, Ministry of Education of China
-- *2024 2023* First-Class Scholarship, Southern University of Science and Technology
+- *2024, 2023* First-Class Scholarship, Southern University of Science and Technology
 
 - 
 <span class='anchor' id='news'></span>

@@ -70,6 +70,8 @@ Please feel free to contact me at **xitongsun@utexas.edu**
 
 [MEMS Gas Sensor Arrays with Multilayer of Nanomaterials Patterned by Wafer-Level Photolithography Process](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xz5gCMgAAAAJ&citation_for_view=xz5gCMgAAAAJ:9yKSN-GCB0IC)
 
+Advised by Prof. [Fei Wang](https://scholar.google.com/citations?hl=en&user=xd7lNYEAAAAJ)
+
 - This work, for the first time, realized the patterning of different gas-sensing materials through multiple photolithography steps, and combined the sensor array with a support vector machine (SVM) algorithm to accurately identify different gases and concentrations.
 
 </div>

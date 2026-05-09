@@ -97,7 +97,7 @@ Advised by Prof. [Ruochen Lu](https://scholar.google.com/citations?hl=en&user=yJ
 
 **Advanced Modeling and Control Techniques for Multiphase Buck-Type Power Converters**
 
-Advised by Prof. [Ruochen Lu](https://scholar.google.com/citations?hl=en&user=yJo453cAAAAJ)
+Advised by Prof. [Yicheng Zhu](https://scholar.google.com/citations?user=XdHExrYAAAAJ&hl=en&oi=ao)
 
 - This ongoing project focuses on advanced modeling, simulation, and control techniques for multiphase buck-type power converters. The work includes literature review, simulation-based verification, and comparative analysis of different control methods in terms of stability, transient performance, complexity, reliability, and practical implementation considerations.
 

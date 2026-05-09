@@ -145,7 +145,7 @@ In my free time, I enjoy playing basketball. I proudly support the Houston Rocke
   <img src="images/basketball3.jpg" alt="Texas Longhorns" style="width: 30%; min-width: 180px;">
 </div>
 
-<div style="height: 28px;"></div>
+<div style="height: 32px;"></div>
 
 I'm also a bif fan of classical music. I spent four joyful years with the SUSTech Philharmonic, and one year as orchestra president. I participated in more than 20 performances. I also enjoy attending concerts and have heard performances by the San Francisco Symphony Orchestra, New York Philharmonic, and National Symphony Orchestra. My favorite piece is Sibelius’s Violin Concerto in D minor.
 
@@ -155,7 +155,20 @@ I'm also a bif fan of classical music. I spent four joyful years with the SUSTec
   <img src="images/orchestra3.jpg" alt="Classical music performance" style="width: 30%; min-width: 180px;">
 </div>
 
+<div style="height: 32px;"></div>
 
+I also love traveling and exploring different landscapes. Yosemite is my favorite national park.
+
+<div style="height: 18px;"></div>
+
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-top: 16px;">
+  <img src="images/travel1.jpg" alt="Travel landscape 1" style="width: 100%; height: 220px; object-fit: cover;">
+  <img src="images/travel2.jpg" alt="Travel landscape 2" style="width: 100%; height: 220px; object-fit: cover;">
+  <img src="images/travel3.jpg" alt="Yosemite National Park" style="width: 100%; height: 220px; object-fit: cover;">
+  <img src="images/travel4.jpg" alt="Travel landscape 4" style="width: 100%; height: 220px; object-fit: cover;">
+  <img src="images/travel5.jpg" alt="Travel landscape 5" style="width: 100%; height: 220px; object-fit: cover;">
+  <img src="images/travel6.jpg" alt="Travel landscape 6" style="width: 100%; height: 220px; object-fit: cover;">
+</div>
 
 <span class='anchor' id='comments'></span>
 # 💬 Suggestions

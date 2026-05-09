@@ -79,7 +79,7 @@ Advised by Prof. [Fei Wang](https://scholar.google.com/citations?hl=en&user=xd7l
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ongoing Research</div><img src='images/500x300.png' alt="LN-based piezoelectric isolation transformer" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ongoing Research</div><img src='images/LN.png' alt="LN-based piezoelectric isolation transformer" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Design and Fabrication of LN-Based Piezoelectric Isolation Transformers**

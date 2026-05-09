@@ -168,7 +168,7 @@ I'm also a bif fan of classical music. I spent four joyful years with the SUSTec
 
 I also love traveling and exploring different landscapes. Yosemite is my favorite national park.
 
-<div style="height: 18px;"></div>
+<div style="height: 10px;"></div>
 
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-top: 16px;">

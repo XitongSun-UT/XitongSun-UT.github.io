@@ -149,9 +149,9 @@ I graduated from Southern University of Science and Technology in 2025. I am dee
 In my free time, I enjoy playing basketball. I proudly support the Houston Rockets and the Texas Longhorns. My favorite player is Kevin Durant — graduated from UT and now play for Houston Rockets.
 
 <div style="display: flex; gap: 12px; justify-content: center; align-items: center; flex-wrap: wrap; margin-top: 16px;">
-  <img src="images/basketball1.jpg" alt="Playing basketball" style="width: 32%; min-width: 180px;">
-  <img src="images/basketball2.jpg" alt="Houston Rockets" style="width: 32%; min-width: 180px;">
-  <img src="images/basketball3.jpg" alt="Texas Longhorns" style="width: 32%; min-width: 180px;">
+  <img src="images/basketball1.jpg" alt="Playing basketball" style="width: 32%; min-width: 200px;">
+  <img src="images/basketball2.jpg" alt="Houston Rockets" style="width: 32%; min-width: 200px;">
+  <img src="images/basketball3.jpg" alt="Texas Longhorns" style="width: 32%; min-width: 200px;">
 </div>
 
 <div style="height: 32px;"></div>

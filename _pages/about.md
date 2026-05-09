@@ -180,6 +180,8 @@ I also love traveling and exploring different landscapes. Yosemite is my favorit
   <div style="height: 32px;">
 
 <span class='anchor' id='comments'></span>
+</div>
+
 # 💬 Suggestions
 <script src="https://giscus.app/client.js"
         data-repo="XitongSun-UT/XitongSun-UT.github.io"

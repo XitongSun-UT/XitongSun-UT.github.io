@@ -52,7 +52,7 @@ Please feel free to contact me at **xitongsun@utexas.edu**
 # 📖 Education
 - *2025.08 - now*, M.S./Ph.D. Student in Mechanical Engineering, The University of Texas at Austin (UT). 
 - *2021.08 - 2025.07*, B.E. in Microelectronics Science and Engineering, Southern University of Science and Technology (SUSTech).
-
+- *2023.06 – 2023.08* Summer Session, University of California, Berkeley.
 
 
 <span class='anchor' id='research-and-publications'></span>

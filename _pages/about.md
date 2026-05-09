@@ -115,9 +115,12 @@ Advised by Prof. [Yicheng Zhu](https://scholar.google.com/citations?user=XdHExrY
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2025* Cockrell School of Engineering Fellowship, The University of Texas at Austin
+- *2025* Outstanding Undergraduate Graduate/Outstanding Undergraduate Thesis, Southern University of Science and Technology
+- *2024* National Scholarship, Ministry of Education of China
+- *2024 2023* First-Class Scholarship, Southern University of Science and Technology
 
+- 
 <span class='anchor' id='news'></span>
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

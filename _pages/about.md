@@ -87,7 +87,7 @@ Advised by Prof. [Fei Wang](https://scholar.google.com/citations?hl=en&user=xd7l
 Advised by Prof. [Ruochen Lu](https://scholar.google.com/citations?hl=en&user=yJo453cAAAAJ)
 
 
-- This ongoing project focuses on the design, modeling, and microfabrication of lithium niobate (LN)-based piezoelectric isolation transformers for emerging power electronics applications. The work aims to explore piezoelectric transformer structures as potential alternatives to conventional magnetic components in compact and high-performance power conversion systems.
+- This ongoing project focuses on the design, modeling, and microfabrication of lithium niobate (LN)-based piezoelectric isolation transformers for emerging power electronics applications. The work aims to explore piezoelectric isolated transformer structures as potential alternatives to conventional magnetic components in compact and high-performance power conversion systems.
 
 </div>
 </div>

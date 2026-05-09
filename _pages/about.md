@@ -76,6 +76,19 @@ Please feel free to contact me at **xitongsun@utexas.edu**
 </div>
 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ongoing Research</div><img src='images/500x300.png' alt="LN-based piezoelectric isolation transformer" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Design and Fabrication of LN-Based Piezoelectric Isolation Transformers**
+
+- This ongoing project focuses on the design, modeling, and microfabrication of lithium niobate (LN)-based piezoelectric isolation transformers for emerging power electronics applications. The work aims to explore piezoelectric transformer structures as potential alternatives to conventional magnetic components in compact and high-performance power conversion systems.
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

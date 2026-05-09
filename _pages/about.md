@@ -141,7 +141,7 @@ I graduated from Southern University of Science and Technology in 2025. I am dee
 <div style="height: 10px;"></div>
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin-top: 16px;">
-  <img src="images/sustech1.jpg" alt="SUSTech memory 1" style="width: 100%; height: 260px; object-fit: cover;">
+  <img src="images/sustech1.jpg" alt="SUSTech memory 1" style="width: 100%; height: 260px; object-fit: contain;">
   <img src="images/sustech2.jpg" alt="SUSTech memory 2" style="width: 100%; height: 260px; object-fit: cover;">
   <img src="images/sustech3.png" alt="SUSTech memory 3" style="width: 100%; height: 260px; object-fit: cover;">
   <img src="images/sustech4.jpg" alt="SUSTech memory 4" style="width: 100%; height: 260px; object-fit: cover;">

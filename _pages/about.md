@@ -120,7 +120,7 @@ Advised by Prof. [Yicheng Zhu](https://scholar.google.com/citations?user=XdHExrY
 - *2024* National Scholarship, Ministry of Education of China
 - *2024, 2023* First-Class Scholarship, Southern University of Science and Technology
 
-- 
+
 <span class='anchor' id='news'></span>
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

@@ -168,10 +168,8 @@ I'm also a big fan of classical music. I spent four joyful years with the SUSTec
 
 I also love traveling and exploring different landscapes. Yosemite is my favorite national park.
 
-<div style="height: 5px;"></div>
 
-
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-top: 16px;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-top: 10px;">
   <img src="images/travel1.jpg" alt="Travel landscape 1" style="width: 100%; height: 220px; object-fit: cover;">
   <img src="images/travel2.jpg" alt="Travel landscape 2" style="width: 100%; height: 220px; object-fit: cover;">
   <img src="images/travel3.jpg" alt="Yosemite National Park" style="width: 100%; height: 220px; object-fit: cover;">

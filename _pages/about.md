@@ -179,24 +179,3 @@ I also love traveling and exploring different landscapes. Yosemite is my favorit
   <img src="images/travel5.jpg" alt="Travel landscape 5" style="width: 100%; height: 220px; object-fit: cover;">
   <img src="images/travel6.jpg" alt="Travel landscape 6" style="width: 100%; height: 220px; object-fit: cover;">
 </div>
-
-<div style="height: 36px;"></div>
-
-<span class='anchor' id='comments'></span>
-
-# 💬 Suggestions
-<script src="https://giscus.app/client.js"
-        data-repo="XitongSun-UT/XitongSun-UT.github.io"
-        data-repo-id="R_kgDOSE9zlw"
-        data-category="General"
-        data-category-id="DIC_kwDOSE9zl84C8ol_"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>

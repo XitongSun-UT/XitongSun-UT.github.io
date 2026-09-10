@@ -19,7 +19,7 @@ redirect_from:
 
 Hey! Glad you’re here!
 
-I’m Xitong Sun, a first-year <strong>M.S./Ph.D</strong> student in 
+I’m Xitong Sun, a first-year <strong>M.S.</strong> student in
 <strong>Mechanical Engineering</strong> at 
 <strong>University of Texas at Austin</strong>.
 
@@ -31,7 +31,7 @@ During my undergraduate studies, I conducted research on MEMS-based gas sensors 
 <a href="https://scholar.google.com/citations?hl=en&user=xd7lNYEAAAAJ" target="_blank">Prof. Fei Wang</a>.
 
 In August 2025, I was proud to join the University of Texas at Austin as a member of the 
-longhorns and begin my M.S./Ph.D studies in Mechanical Engineering. 
+longhorns and begin my M.S. studies in Mechanical Engineering.
 Since then, I have explored a range of research areas, and my current interests focus on 
 <strong>advanced modeling and control techniques for high-performance power electronics</strong>, 
 as well as emerging <strong>power electronics based on piezoelectric passive components</strong>.
@@ -50,7 +50,7 @@ Please feel free to contact me at **xitongsun@utexas.edu**
 
 <span class='anchor' id='education'></span>
 # 📖 Education
-- *2025.08 - now*, M.S./Ph.D. Student in Mechanical Engineering, The University of Texas at Austin (UT). 
+- *2025.08 - now*, M.S. Student in Mechanical Engineering, The University of Texas at Austin (UT).
 - *2021.08 - 2025.07*, B.E. in Microelectronics Science and Engineering, Southern University of Science and Technology (SUSTech).
 - *2023.06 – 2023.08* Summer Session, University of California, Berkeley.
 
@@ -126,7 +126,7 @@ Advised by Prof. [Yicheng Zhu](https://scholar.google.com/citations?user=XdHExrY
 <span class='anchor' id='news'></span>
 # 🔥 News
 - *2026.03:* Joined Prof. Ruochen Lu’s RAM Lab at UT. Grateful for this opportunity!
-- *2025.08:* Started my Ph.D. studies in Mechanical Engineering at The University of Texas at Austin!
+- *2025.08:* Started my M.S. studies in Mechanical Engineering at The University of Texas at Austin!
 - *2025.08:* Awarded the Cockrell School of Engineering Fellowship at The University of Texas at Austin.
 - *2025.07:* Received my B.E. degree from SUSTech. Deeply grateful to Prof. Fei Wang and all members of the MEMS Group. I will always cherish my wonderful time at SUSTech.
 - *2025.06:* Received the Outstanding Undergraduate Graduate and Outstanding Undergraduate Thesis awards from Southern University of Science and Technology.

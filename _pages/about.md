@@ -38,9 +38,9 @@ Since then, I have explored a range of research areas, and my current interests 
 as well as <strong>advanced modeling and control techniques for high-performance power electronics</strong>
 (advised by <a href="https://scholar.google.com/citations?user=XdHExrYAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener noreferrer">Dr. Yicheng Zhu</a>).
 
-My experience spans <strong>IC-level design and simulation</strong> with Cadence Virtuoso,
-<strong>system-level design and prototyping</strong> using KiCad, PLECS, and Code Composer Studio (CCS),
-and <strong>cleanroom-based device fabrication</strong>.
+I have experience in <strong>IC-level</strong> design and simulation (e.g., Cadence Virtuoso), 
+<strong>system-level</strong> design and prototyping (e.g., KiCad, PLECS, Code Composer Studio (CCS)), 
+as well as <strong>cleanroom-based</strong> device fabrication.
 
 Looking ahead, I plan to re-apply to <strong>PhD</strong> programs in 
 <strong>Fall 2027</strong>, with a focus on <strong>Power Electronics</strong>!

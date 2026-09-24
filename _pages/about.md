@@ -61,53 +61,84 @@ Please feel free to contact me at **xitongsun@utexas.edu**
 # 📝 Research and Publications 
 
 <div class='paper-box'>
+<div class="paper-box-text" markdown="1" style="max-width: 100%; padding-left: 0;">
+
+**Conductive-Silicon-Packaged LiNbO<sub>3</sub> Resonators**
+
+Advised by Prof. [Ruochen Lu](https://scholar.google.com/citations?hl=en&user=yJo453cAAAAJ), UT<br>
+*Apr. 2026 – Present*
+
+- Designed a Si–LN–Si packaged resonator with conductive Si electrodes to improve power handling, avoid electrode breakdown and enhance heat dissipation.
+- Demonstrated capacitive excitation of LN through Si–LN air gaps using conductive Si electrodes, with negligible degradation in Q and k<sup>2</sup> compared with bare LN resonators.
+- Fabricated Si–LN–Si resonator prototypes using Au–Au, BCB, photoresist, and crystal bond, and evaluated their effects on resonator performance.
+- Evaluated packaging effects on power handling and thermal performance under high-power excitation.
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<img src="images/LN.png" alt="Admittance spectra of an LN-based piezoelectric isolation transformer" width="100%">
+</div>
+</div>
+<div class="paper-box-text" markdown="1">
+
+**Vertically Stacked LiNbO<sub>3</sub> Isolation Transformers**
+
+Advised by Prof. [Ruochen Lu](https://scholar.google.com/citations?hl=en&user=yJo453cAAAAJ), UT<br>
+*Mar. 2026 – Present*
+
+- Designed a vertically stacked LN–sapphire–LN isolation transformer for mechanically coupled power transfer across an electrically insulating layer, targeting high power handling and high breakdown voltage.
+- Simulated mode shapes and admittance spectra of 36°, 128°, and 163° Y-cut LN in COMSOL; optimized layer thicknesses for half-wavelength resonance to improve acoustic transmission.
+- Fabricated two-port transformer prototypes and designed test PCBs with corner-fixed mounting and wire-bonded electrical interconnects.
+- Characterized resonance frequencies, Q, and k<sup>2</sup> using VNA measurements; evaluated nonlinearity and power handling under high-power excitation, TCF over temperature, and power-transfer efficiency.
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<img src="images/Power.jpg" alt="Multiphase synchronous buck converter model" width="100%">
+</div>
+</div>
+<div class="paper-box-text" markdown="1">
+
+**Modeling and Control of Multiphase Buck Converters**
+
+Advised by Prof. [Yicheng Zhu](https://scholar.google.com/citations?user=XdHExrYAAAAJ&hl=en&oi=ao), UT<br>
+*Feb. 2026 – Jun. 2026*
+
+- Developed state-space averaged and small-signal models of multiphase buck converters; analyzed converter dynamics and loop-gain characteristics for feedback-controller design.
+- Implemented voltage-mode, peak/average current-mode, COT and V<sup>2</sup> control in PLECS; evaluated closed-loop stability through frequency-domain analysis and dynamic regulation through time-domain simulations.
+- Compared transient responses across different control strategies, quantifying trade-offs in voltage deviation, settling time, and implementation complexity.
+
+</div>
+</div>
+
+<div class='paper-box'>
 <div class='paper-box-image'>
 <div>
 <div class="badge">Transducers 2025</div>
-<img src='images/transducers.png' alt="Transducers 2025 paper figure" width="100%">
+<img src="images/transducers.png" alt="MEMS gas sensor arrays with patterned sensing materials" width="100%">
 </div>
 </div>
+<div class="paper-box-text" markdown="1">
 
-<div class='paper-box-text' markdown="1">
+**MEMS Gas Sensor Arrays with Wafer-Level Material Patterning**
 
-[**MEMS Gas Sensor Arrays with Multilayer of Nanomaterials Patterned by Wafer-Level Photolithography Process**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xz5gCMgAAAAJ&citation_for_view=xz5gCMgAAAAJ:9yKSN-GCB0IC)
+Advised by Prof. [Fei Wang](https://scholar.google.com/citations?hl=en&user=xd7lNYEAAAAJ), SUSTech<br>
+*Jun. 2023 – Apr. 2025*
 
-Advised by Prof. [Fei Wang](https://scholar.google.com/citations?hl=en&user=xd7lNYEAAAAJ)
-
-- This work, for the first time, realized the patterning of different gas-sensing materials through multiple photolithography steps, and combined the sensor array with a support vector machine (SVM) algorithm to accurately identify different gases and concentrations.
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ongoing Research</div><img src='images/LN.png' alt="LN-based piezoelectric isolation transformer" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Design and Fabrication of LN-Based Piezoelectric Isolation Transformers**
-
-Advised by Prof. [Ruochen Lu](https://scholar.google.com/citations?hl=en&user=yJo453cAAAAJ)
-
-
-- This ongoing project focuses on the design, modeling, and microfabrication of lithium niobate (LN)-based piezoelectric isolation transformers for emerging power electronics applications.
-- Different LN and isolation-layer thicknesses are studied to evaluate their effects on electrical isolation and acoustic coupling.
-- The work aims to explore piezoelectric isolated transformer structures as potential alternatives to conventional magnetic components in compact and high-performance power conversion systems.
+- Optimized a backside-etched microheater structure, reducing heating power consumption by 25% compared with the frontside-etched design.
+- Developed a wafer-level multi-step photolithography process for patterning multiple gas-sensing materials on MEMS sensor arrays, and fabricated devices through lithography, deposition and etching.
+- Applied support vector machine (SVM) models to sensor-array responses, achieving 100% gas classification accuracy and R<sup>2</sup> ≥ 0.98 for concentration prediction on a test set.
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ongoing Research</div><img src='images/Power.jpg' alt="advanced modeling and control techniques for power electronics" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Advanced Modeling and Control Techniques for Multiphase Buck-Type Power Converters**
-
-Advised by Prof. [Yicheng Zhu](https://scholar.google.com/citations?user=XdHExrYAAAAJ&hl=en&oi=ao)
-
-- This ongoing project focuses on advanced modeling, simulation, and control techniques for multiphase buck-type power converters. The work includes literature review, simulation-based verification, and comparative analysis of different control methods in terms of stability, transient performance, complexity, reliability, and practical implementation considerations.
-
-</div>
-</div>
-
+## Publications
 
 - [MEMS Gas Sensor Arrays with Multilayer of Nanomaterials Patterned by Wafer-Level Photolithography Process](https://doi.org/10.1109/Transducers61432.2025.11110438), **X. Sun**, J. Li, T. Cheng, and F. Wang, **Transducers 2025**, Orlando, FL, USA.
 
@@ -116,6 +147,35 @@ Advised by Prof. [Yicheng Zhu](https://scholar.google.com/citations?user=XdHExrY
 - [MEMS Acetone Gas Sensors with Eu-doped SnO₂/In₂O₃ Nanofibers Using Electrospinning and Lithography Patterning Technique](https://doi.org/10.1109/SENSORS60989.2024.10785144), T. Cheng, J. Li, G. Niu, **X. Sun**, and F. Wang, **IEEE SENSORS 2024**, Kobe, Japan.
 
 - [MEMS Gas Sensors with Metal-Oxide Semiconductor Materials Patterned at Wafer-Level by Photolithography Technique](https://doi.org/10.1109/SENSORS56945.2023.10324896), X. Liu, G. Niu, J. Li, Y. Zhuang, **X. Sun**, and F. Wang, **IEEE SENSORS 2023**, Vienna, Austria.
+
+<span class='anchor' id='course-experience'></span>
+# 📚 Course Experience
+
+## 24–48 V Synchronous Boost Converter Implementation
+
+*Jan. 2026 – Jun. 2026*<br>
+Instructor: Prof. [Yicheng Zhu](https://scholar.google.com/citations?user=XdHExrYAAAAJ&hl=en&oi=ao)<br>
+Course: Power Electronic Devices and Systems
+
+- Designed and laid out a 250-W, 24–48 V synchronous boost converter on a four-layer PCB in KiCad, minimizing high-di/dt commutation and gate-drive loop areas to reduce parasitic inductance.
+- Designed and built the power inductor and programmed a TI C2000 MCU for complementary PWM with dead time and synchronized ADC sensing of input/output voltages and inductor current.
+- Assembled and tested the converter under load; characterized switching waveforms, voltage/current ripple, and load-dependent efficiency. Achieved a peak conversion efficiency of 95.7%.
+
+## Synchronous Buck Converter Design with V<sup>2</sup> Peak Control
+
+*Sep. 2025 – Nov. 2025*<br>
+Instructor: Prof. Alex Q. Huang<br>
+Course: PMIC
+
+- Designed and simulated a synchronous buck converter with V<sup>2</sup> peak control in Cadence Virtuoso, operating in PWM mode at high load and PFM mode at light load for enhanced efficiency.
+- Integrated a complete control system, incorporating ramp generator, comparator, compensation network, gate drivers with dead-time control, and OCP and OVP protection.
+- Optimized transistor sizing and passive component to minimize the overall design footprint.
+
+## University of California, Berkeley (Summer Extension Program)
+
+*Jun. 2023 – Aug. 2023*
+
+- GPA: 4.0/4.0
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
@@ -150,15 +210,6 @@ I graduated from Southern University of Science and Technology in 2025. I am dee
 </div>
 
 <div style="height: 32px;"></div>
-In my free time, I enjoy playing basketball. I proudly support the Houston Rockets and the Texas Longhorns. My favorite player is Kevin Durant — graduated from UT and now play for Houston Rockets.
-
-<div style="display: flex; gap: 12px; justify-content: center; align-items: center; flex-wrap: wrap; margin-top: 16px;">
-  <img src="images/basketball1.jpg" alt="Playing basketball" style="width: 32%; min-width: 200px;">
-  <img src="images/basketball2.jpg" alt="Houston Rockets" style="width: 32%; min-width: 200px;">
-  <img src="images/basketball3.jpg" alt="Texas Longhorns" style="width: 32%; min-width: 200px;">
-</div>
-
-<div style="height: 32px;"></div>
 
 I'm also a big fan of classical music. I spent four joyful years with the SUSTech Philharmonic, and one year as orchestra president. I participated in more than 20 performances. I also enjoy attending concerts and have heard performances by the San Francisco Symphony Orchestra, New York Philharmonic, and National Symphony Orchestra. My favorite piece is Sibelius’s Violin Concerto in D minor.
 
@@ -181,3 +232,5 @@ I also love traveling and exploring different landscapes. Yosemite is my favorit
   <img src="images/travel5.jpg" alt="Travel landscape 5" style="width: 100%; height: 220px; object-fit: cover;">
   <img src="images/travel6.jpg" alt="Travel landscape 6" style="width: 100%; height: 220px; object-fit: cover;">
 </div>
+
+<p style="margin-top: 48px; margin-bottom: 48px;"><strong>I am seeking Ph.D. opportunities in Power Electronics for Fall 2027.</strong></p>

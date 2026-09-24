@@ -23,7 +23,7 @@ I’m Xitong Sun, an <strong>M.S.</strong> student in
 <strong>Mechanical Engineering</strong> at 
 <strong>University of Texas at Austin</strong>.
 
-I received my B.E. degree in Microelectronics Science and Engineering in July 2025 at 
+I received my B.E. with Honors in Microelectronics in July 2025 at
 <strong>Southern University of Science and Technology</strong> (<strong>SUSTech</strong>), 
 a young university established in 2010 in Shenzhen, China 
 (<a href="https://www.nature.com/articles/nature.2012.10631" target="_blank">a short story about SUSTech</a>). 
@@ -34,15 +34,15 @@ In August 2025, I was proud to join the University of Texas at Austin as a membe
 longhorns and begin my M.S. studies in Mechanical Engineering.
 Since then, I have explored a range of research areas, and my current interests focus on
 <strong>power electronics based on piezoelectric passive components</strong>
-(advised by <a href="https://scholar.google.com/citations?hl=en&amp;user=yJo453cAAAAJ" target="_blank" rel="noopener noreferrer">Dr. Ruochen Lu</a>),
+(advised by <a href="https://scholar.google.com/citations?hl=en&amp;user=yJo453cAAAAJ" target="_blank" rel="noopener noreferrer">Prof. Ruochen Lu</a>),
 as well as <strong>advanced modeling and control techniques for high-performance power electronics</strong>
-(advised by <a href="https://scholar.google.com/citations?user=XdHExrYAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener noreferrer">Dr. Yicheng Zhu</a>).
+(advised by <a href="https://scholar.google.com/citations?user=XdHExrYAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener noreferrer">Prof. Yicheng Zhu</a>).
 
 I have experience in <strong>IC-level</strong> design and simulation (e.g., Cadence Virtuoso), 
 <strong>system-level</strong> design and prototyping (e.g., KiCad, PLECS, Code Composer Studio (CCS)), 
 as well as <strong>cleanroom-based</strong> device fabrication.
 
-<p style="font-size: 1.3em; line-height: 1.5;"><strong style="font-weight: 800;">I am seeking Ph.D. opportunities in Power Electronics for Fall 2027.</strong></p>
+<p style="font-size: 1.5em; line-height: 1.5;"><strong style="font-weight: 800;">I am seeking Ph.D. opportunities in Power Electronics for Fall 2027.</strong></p>
 
 Please feel free to contact me at **xitongsun@utexas.edu**
 
@@ -52,7 +52,7 @@ Please feel free to contact me at **xitongsun@utexas.edu**
 <span class='anchor' id='education'></span>
 # 📖 Education
 - *2025.08 - now*, M.S. Student in Mechanical Engineering, The University of Texas at Austin (UT).
-- *2021.08 - 2025.07*, B.E. in Microelectronics Science and Engineering, Southern University of Science and Technology (SUSTech).
+- *2021.08 - 2025.07*, B.E. with Honors in Microelectronics, Southern University of Science and Technology (SUSTech).
 - *2023.06 – 2023.08* Summer Session, University of California, Berkeley.
 
 
@@ -162,18 +162,12 @@ Course: Power Electronic Devices and Systems
 ## Synchronous Buck Converter Design with V<sup>2</sup> Peak Control
 
 *Sep. 2025 – Nov. 2025*<br>
-Instructor: Prof. Alex Q. Huang<br>
+Instructor: Prof. [Alex Q. Huang](https://scholar.google.com/citations?user=yDDmPpwAAAAJ&hl=en)<br>
 Course: PMIC
 
 - Designed and simulated a synchronous buck converter with V<sup>2</sup> peak control in Cadence Virtuoso, operating in PWM mode at high load and PFM mode at light load for enhanced efficiency.
 - Integrated a complete control system, incorporating ramp generator, comparator, compensation network, gate drivers with dead-time control, and OCP and OVP protection.
 - Optimized transistor sizing and passive component to minimize the overall design footprint.
-
-## University of California, Berkeley (Summer Extension Program)
-
-*Jun. 2023 – Aug. 2023*
-
-- GPA: 4.0/4.0
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
@@ -198,7 +192,7 @@ Course: PMIC
 <span class='anchor' id='play-hard'></span>
 
 # 😎 Play Hard
-I graduated from Southern University of Science and Technology in 2025. I am deeply grateful to all the teachers, friends and family members who supported me along the way. SUSTech gave me countless precious memories, I will keep these precious memories in my heart forever.
+I graduated from Southern University of Science and Technology in 2025. I am deeply grateful to all the teachers, friends and family members who supported me along the way. SUSTech gave me countless precious memories, which I will keep in my heart forever.
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin-top: 16px;">
   <img src="images/sustech1.jpg" alt="SUSTech memory 1" style="width: 100%; height: 260px; object-fit: contain;">
@@ -209,7 +203,7 @@ I graduated from Southern University of Science and Technology in 2025. I am dee
 
 <div style="height: 32px;"></div>
 
-I'm also a big fan of classical music. I spent four joyful years with the SUSTech Philharmonic, and one year as orchestra president. I participated in more than 20 performances. I also enjoy attending concerts and have heard performances by the San Francisco Symphony Orchestra, New York Philharmonic, and National Symphony Orchestra. My favorite piece is Sibelius’s Violin Concerto in D minor.
+I'm also a big fan of classical music. I spent four joyful years with the SUSTech Philharmonic, and one year as orchestra president. I participated in more than 20 performances. I also enjoy attending concerts and have heard memorable performances by the San Francisco Symphony Orchestra, New York Philharmonic, National Symphony Orchestra, Austin Symphony Orchestra, and West-Eastern Divan Orchestra. My favorite piece is Sibelius’s Violin Concerto in D minor.
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin-top: 20px; width: 100%;">
   <img src="images/orchestra1.jpg" alt="SUSTech Philharmonic performance" style="width: 100%; height: 260px; object-fit: cover;">
@@ -231,4 +225,4 @@ I also love traveling and exploring different landscapes. Yosemite is my favorit
   <img src="images/travel6.jpg" alt="Travel landscape 6" style="width: 100%; height: 220px; object-fit: cover;">
 </div>
 
-<p style="font-size: 1.5em; line-height: 1.5; text-align: center; margin-top: 64px; margin-bottom: 120px;"><strong style="font-weight: 800;">I am seeking Ph.D. opportunities in Power Electronics for Fall 2027.</strong></p>
+<p style="font-size: 1.7em; line-height: 1.5; text-align: center; margin-top: 64px; margin-bottom: 120px;"><strong style="font-weight: 800;">I am seeking Ph.D. opportunities in Power Electronics for Fall 2027.</strong></p>

@@ -51,8 +51,8 @@ function updateNav() {
   // Keep counter updated
   $btn.attr("count", breaks.length);
 
-  // Recur if the visible list is still overflowing the nav
-  if($vlinks.width() > availableSpace) {
+  // Recur until every link that fits has returned to the visible list.
+  if($vlinks.width() > availableSpace || availableSpace > breaks[breaks.length-1]) {
     updateNav();
   }
 

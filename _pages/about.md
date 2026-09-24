@@ -60,7 +60,17 @@ Please feel free to contact me at **xitongsun@utexas.edu**
 # 📝 Research and Publications 
 
 <div class='paper-box'>
-<div class="paper-box-text" markdown="1" style="max-width: 100%; padding-left: 0;">
+<div class="paper-box-image">
+<div class="project-figures">
+<a href="images/resonator-stack.png" title="Layer structure of the conductive-silicon-packaged resonator">
+  <img src="images/resonator-stack.png" alt="Layer structure of the conductive-silicon-packaged resonator" width="844" height="286" loading="lazy" decoding="async">
+</a>
+<a href="images/resonator-frequency-response.png" title="Frequency response of the packaged resonator">
+  <img src="images/resonator-frequency-response.png" alt="Frequency response of the packaged resonator" width="826" height="531" loading="lazy" decoding="async">
+</a>
+</div>
+</div>
+<div class="paper-box-text" markdown="1">
 
 **Conductive-Silicon-Packaged LiNbO<sub>3</sub> Resonators**
 
@@ -76,9 +86,17 @@ Advised by Prof. [Ruochen Lu](https://scholar.google.com/citations?hl=en&user=yJ
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'>
-<div>
-<img src="images/LN.png" alt="Admittance spectra of an LN-based piezoelectric isolation transformer" width="100%">
+<div class="paper-box-image">
+<div class="project-figures">
+<a href="images/transformer-displacement.png" title="Simulated displacement of the LN-sapphire-LN transformer">
+  <img src="images/transformer-displacement.png" alt="Simulated displacement of the LN-sapphire-LN transformer" width="1315" height="442" loading="lazy" decoding="async">
+</a>
+<a href="images/transformer-materials.png" title="Comparison of piezoelectric and isolation-layer material properties">
+  <img src="images/transformer-materials.png" alt="Comparison of piezoelectric and isolation-layer material properties" width="1125" height="304" loading="lazy" decoding="async">
+</a>
+<a href="images/transformer-admittance.png" title="Two-port transformer admittance spectra">
+  <img src="images/transformer-admittance.png" alt="Two-port transformer admittance spectra" width="871" height="530" loading="lazy" decoding="async">
+</a>
 </div>
 </div>
 <div class="paper-box-text" markdown="1">
@@ -97,9 +115,17 @@ Advised by Prof. [Ruochen Lu](https://scholar.google.com/citations?hl=en&user=yJ
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'>
-<div>
-<img src="images/Power.jpg" alt="Multiphase synchronous buck converter model" width="100%">
+<div class="paper-box-image">
+<div class="project-figures">
+<a href="images/buck-plecs-model.png" title="PLECS buck converter model with loop-gain measurement">
+  <img src="images/buck-plecs-model.png" alt="PLECS buck converter model with loop-gain measurement" width="1016" height="406" loading="lazy" decoding="async">
+</a>
+<a href="images/buck-controller.png" title="Buck converter feedback controller model">
+  <img src="images/buck-controller.png" alt="Buck converter feedback controller model" width="1016" height="235" loading="lazy" decoding="async">
+</a>
+<a href="images/buck-loop-gain.png" title="Buck converter loop-gain magnitude and phase analysis">
+  <img src="images/buck-loop-gain.png" alt="Buck converter loop-gain magnitude and phase analysis" width="762" height="444" loading="lazy" decoding="async">
+</a>
 </div>
 </div>
 <div class="paper-box-text" markdown="1">
@@ -117,9 +143,11 @@ Advised by Prof. [Yicheng Zhu](https://scholar.google.com/citations?user=XdHExrY
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'>
-<div>
-<img src="images/transducers.png" alt="MEMS gas sensor arrays with patterned sensing materials" width="100%">
+<div class="paper-box-image">
+<div class="project-figures">
+<a href="images/mems-fabrication.png" title="Wafer-level fabrication and photolithography process for MEMS gas sensor arrays">
+  <img src="images/mems-fabrication.png" alt="Wafer-level fabrication and photolithography process for MEMS gas sensor arrays" width="1341" height="943" loading="lazy" decoding="async">
+</a>
 </div>
 </div>
 <div class="paper-box-text" markdown="1">
@@ -133,6 +161,11 @@ Advised by Prof. [Fei Wang](https://scholar.google.com/citations?hl=en&user=xd7l
 - Developed a wafer-level multi-step photolithography process for patterning multiple gas-sensing materials on MEMS sensor arrays, and fabricated devices through lithography, deposition and etching.
 - Applied support vector machine (SVM) models to sensor-array responses, achieving 100% gas classification accuracy and R<sup>2</sup> ≥ 0.98 for concentration prediction on a test set.
 
+</div>
+<div class="paper-box-wide-figure">
+<a href="images/mems-sensor-results.png" title="MEMS sensor response patterns and SVM concentration prediction results">
+  <img src="images/mems-sensor-results.png" alt="MEMS sensor response patterns and SVM concentration prediction results" width="2086" height="808" loading="lazy" decoding="async">
+</a>
 </div>
 </div>
 

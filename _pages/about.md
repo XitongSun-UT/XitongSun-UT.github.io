@@ -19,7 +19,7 @@ redirect_from:
 
 Hey! Glad you’re here!
 
-I’m Xitong Sun, a first-year <strong>M.S.</strong> student in
+I’m Xitong Sun, an <strong>M.S.</strong> student in
 <strong>Mechanical Engineering</strong> at 
 <strong>University of Texas at Austin</strong>.
 
@@ -42,8 +42,7 @@ I have experience in <strong>IC-level</strong> design and simulation (e.g., Cade
 <strong>system-level</strong> design and prototyping (e.g., KiCad, PLECS, Code Composer Studio (CCS)), 
 as well as <strong>cleanroom-based</strong> device fabrication.
 
-Looking ahead, I plan to re-apply to <strong>PhD</strong> programs in 
-<strong>Fall 2027</strong>, with a focus on <strong>Power Electronics</strong>!
+<p style="font-size: 1.3em; line-height: 1.5;"><strong style="font-weight: 800;">I am seeking Ph.D. opportunities in Power Electronics for Fall 2027.</strong></p>
 
 Please feel free to contact me at **xitongsun@utexas.edu**
 
@@ -120,7 +119,6 @@ Advised by Prof. [Yicheng Zhu](https://scholar.google.com/citations?user=XdHExrY
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge">Transducers 2025</div>
 <img src="images/transducers.png" alt="MEMS gas sensor arrays with patterned sensing materials" width="100%">
 </div>
 </div>
@@ -233,4 +231,4 @@ I also love traveling and exploring different landscapes. Yosemite is my favorit
   <img src="images/travel6.jpg" alt="Travel landscape 6" style="width: 100%; height: 220px; object-fit: cover;">
 </div>
 
-<p style="margin-top: 48px; margin-bottom: 48px;"><strong>I am seeking Ph.D. opportunities in Power Electronics for Fall 2027.</strong></p>
+<p style="font-size: 1.5em; line-height: 1.5; text-align: center; margin-top: 64px; margin-bottom: 120px;"><strong style="font-weight: 800;">I am seeking Ph.D. opportunities in Power Electronics for Fall 2027.</strong></p>

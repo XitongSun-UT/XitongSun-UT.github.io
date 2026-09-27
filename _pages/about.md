@@ -79,14 +79,14 @@ Please feel free to contact me at **xitongsun@utexas.edu**
 </div>
 <div class="paper-box-text" markdown="1">
 
-**Conductive-Silicon-Packaged LiNbO<sub>3</sub> Resonators**
+**Conductive-Silicon-Packaged Piezoelectric Resonators**
 
 Advised by Prof. [Ruochen Lu](https://scholar.google.com/citations?hl=en&user=yJo453cAAAAJ), UT<br>
 *Apr. 2026 – Present*
 
-- Designed a Si–LN–Si packaged resonator with conductive Si electrodes to improve power handling, avoid electrode breakdown and enhance heat dissipation.
-- Demonstrated capacitive excitation of LN through Si–LN air gaps using conductive Si electrodes, with negligible degradation in Q and k<sup>2</sup> compared with bare LN resonators.
-- Fabricated Si–LN–Si resonator prototypes using Au–Au, BCB, photoresist, and crystal bond, and evaluated their effects on resonator performance.
+- Designed a conductive-silicon package for piezoelectric resonators, demonstrated with LiNbO<sub>3</sub> in a Si–LN–Si stack, to improve power handling, avoid electrode breakdown and enhance heat dissipation.
+- Demonstrated capacitive excitation of LN through Si–LN air gaps using conductive Si electrodes, retaining 95% and 99% of the bare-LN Q and k<sup>2</sup>, respectively.
+- Fabricated Si–LN–Si resonator prototypes using different bonding methods (Au–Au, BCB, photoresist, and Crystalbond) and evaluated their effects on resonator performance.
 - Evaluated packaging effects on power handling and thermal performance under high-power excitation.
 
 </div>
@@ -125,7 +125,7 @@ Advised by Prof. [Ruochen Lu](https://scholar.google.com/citations?hl=en&user=yJ
 - Designed a vertically stacked LN–sapphire–LN isolation transformer for mechanically coupled power transfer across an electrically insulating layer, targeting high power handling and high breakdown voltage.
 - Simulated mode shapes and admittance spectra of 36°, 128°, and 163° Y-cut LN in COMSOL; optimized layer thicknesses for half-wavelength resonance to improve acoustic transmission.
 - Fabricated two-port transformer prototypes and designed test PCBs with corner-fixed mounting and wire-bonded electrical interconnects.
-- Characterized resonance frequencies, Q, and k<sup>2</sup> using VNA measurements; evaluated nonlinearity and power handling under high-power excitation, TCF over temperature, and power-transfer efficiency.
+- Characterize resonance frequencies, Q, and k<sup>2</sup> using VNA measurements; evaluate nonlinearity, power handling, temperature coefficient of frequency (TCF), and power-transfer efficiency. (**In Progress**)
 
 </div>
 </div>
@@ -161,7 +161,7 @@ Advised by Prof. [Yicheng Zhu](https://scholar.google.com/citations?user=XdHExrY
 *Feb. 2026 – Jun. 2026*
 
 - Developed state-space averaged and small-signal models of multiphase buck converters; analyzed converter dynamics and loop-gain characteristics for feedback-controller design.
-- Implemented voltage-mode, peak/average current-mode, COT and V<sup>2</sup> control in PLECS; evaluated closed-loop stability through frequency-domain analysis and dynamic regulation through time-domain simulations.
+- Implemented voltage-mode, current-mode, COT and V<sup>2</sup> control in PLECS; evaluated closed-loop stability through frequency-domain analysis and dynamic regulation through time-domain simulations.
 - Compared transient responses across different control strategies, quantifying trade-offs in voltage deviation, settling time, and implementation complexity.
 
 </div>
@@ -213,13 +213,13 @@ Advised by Prof. [Fei Wang](https://scholar.google.com/citations?hl=en&user=xd7l
 <span class='anchor' id='course-experience'></span>
 # 📚 Course Experience
 
-## 24–48 V Synchronous Boost Converter Implementation
+## 24 V to 48 V Synchronous Boost Converter Prototype
 
 *Jan. 2026 – Jun. 2026*<br>
 Instructor: Prof. [Yicheng Zhu](https://scholar.google.com/citations?user=XdHExrYAAAAJ&hl=en&oi=ao)<br>
 Course: Power Electronic Devices and Systems
 
-- Designed and laid out a 250-W, 24–48 V synchronous boost converter on a four-layer PCB in KiCad, minimizing high-di/dt commutation and gate-drive loop areas to reduce parasitic inductance.
+- Designed and laid out a 250 W, 24 V to 48 V synchronous boost converter on a four-layer PCB in **KiCad**, minimizing high-di/dt commutation and gate-drive loop areas to reduce parasitic inductance.
 - Designed and built the power inductor and programmed a TI C2000 MCU for complementary PWM with dead time and synchronized ADC sensing of input/output voltages and inductor current.
 - Assembled and tested the converter under load; characterized switching waveforms, voltage/current ripple, and load-dependent efficiency. Achieved a peak conversion efficiency of 95.7%.
 
@@ -229,9 +229,9 @@ Course: Power Electronic Devices and Systems
 Instructor: Prof. [Alex Q. Huang](https://scholar.google.com/citations?user=yDDmPpwAAAAJ&hl=en)<br>
 Course: PMIC
 
-- Designed and simulated a synchronous buck converter with V<sup>2</sup> peak control in Cadence Virtuoso, operating in PWM mode at high load and PFM mode at light load for enhanced efficiency.
-- Integrated a complete control system, incorporating ramp generator, comparator, compensation network, gate drivers with dead-time control, and OCP and OVP protection.
-- Optimized transistor sizing and passive component to minimize the overall design footprint.
+- Designed and simulated a synchronous buck converter with V<sup>2</sup> peak control in **Cadence Virtuoso**, operating in PWM mode at high load and PFM mode at light load for enhanced efficiency.
+- Integrated a complete control system, incorporating ramp generator, comparator, compensation network, gate driver with dead-time control, and OCP and OVP protection.
+- Optimized transistor sizing and passive component dimensions to minimize the overall design footprint.
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards

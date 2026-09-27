@@ -38,8 +38,9 @@ Since then, I have explored a range of research areas, and my current interests 
 as well as <strong>advanced modeling and control techniques for high-performance power electronics</strong>
 (advised by <a href="https://scholar.google.com/citations?user=XdHExrYAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener noreferrer">Prof. Yicheng Zhu</a>).
 
-I have experience in <strong>IC-level</strong> design and simulation (e.g., Cadence Virtuoso), 
-<strong>system-level</strong> design and prototyping (e.g., KiCad, PLECS, Code Composer Studio (CCS)), 
+I have experience in <strong>IC-level</strong> design and simulation (e.g., Cadence Virtuoso),
+<strong>device-level</strong> simulation (e.g., COMSOL Multiphysics),
+<strong>system-level</strong> design and prototyping (e.g., KiCad, PLECS, Code Composer Studio (CCS)),
 as well as <strong>cleanroom-based</strong> device fabrication.
 
 <p style="font-size: 1.5em; line-height: 1.5;"><strong style="font-weight: 800;">I am seeking Ph.D. opportunities in Power Electronics for Fall 2027.</strong></p>

@@ -205,7 +205,7 @@ Course: PMIC
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
-- *2025* Cockrell School of Engineering Fellowship, The University of Texas at Austin
+- *2025* Britton R. Birmingham Graduate Fellowship in Engineering, The University of Texas at Austin
 - *2025* Outstanding Undergraduate Graduate/Outstanding Undergraduate Thesis, Southern University of Science and Technology
 - *2024* National Scholarship, Ministry of Education of China
 - *2024, 2023* First-Class Scholarship, Southern University of Science and Technology
@@ -215,7 +215,7 @@ Course: PMIC
 # 🔥 News
 - *2026.03:* Joined Prof. Ruochen Lu’s RAM Lab at UT. Grateful for this opportunity!
 - *2025.08:* Started my M.S. studies in Mechanical Engineering at The University of Texas at Austin!
-- *2025.08:* Awarded the Cockrell School of Engineering Fellowship at The University of Texas at Austin.
+- *2025.08:* Awarded the Britton R. Birmingham Graduate Fellowship in Engineering at The University of Texas at Austin.
 - *2025.07:* Received my B.E. degree from SUSTech. Deeply grateful to Prof. Fei Wang and all members of the MEMS Group. I will always cherish my wonderful time at SUSTech.
 - *2025.06:* Received the Outstanding Undergraduate Graduate and Outstanding Undergraduate Thesis awards from Southern University of Science and Technology.
 - *2025.06:* My paper on MEMS gas sensor arrays was presented at Transducers 2025 in Orlando, Florida.

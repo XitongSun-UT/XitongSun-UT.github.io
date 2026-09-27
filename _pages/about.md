@@ -63,12 +63,18 @@ Please feel free to contact me at **xitongsun@utexas.edu**
 <div class='paper-box'>
 <div class="paper-box-image">
 <div class="project-figures">
+<figure class="project-figure">
 <a href="images/resonator-stack.png" title="Layer structure of the conductive-silicon-packaged resonator">
   <img src="images/resonator-stack.png" alt="Layer structure of the conductive-silicon-packaged resonator" width="844" height="286" loading="lazy" decoding="async">
 </a>
+<figcaption>Layer structure of the conductive-silicon-packaged resonator</figcaption>
+</figure>
+<figure class="project-figure">
 <a href="images/resonator-frequency-response.png" title="Frequency response of the packaged resonator">
   <img src="images/resonator-frequency-response.png" alt="Frequency response of the packaged resonator" width="826" height="531" loading="lazy" decoding="async">
 </a>
+<figcaption>Frequency response of the packaged resonator</figcaption>
+</figure>
 </div>
 </div>
 <div class="paper-box-text" markdown="1">
@@ -89,15 +95,24 @@ Advised by Prof. [Ruochen Lu](https://scholar.google.com/citations?hl=en&user=yJ
 <div class='paper-box'>
 <div class="paper-box-image">
 <div class="project-figures">
+<figure class="project-figure">
 <a href="images/transformer-displacement.png" title="Simulated displacement of the LN-sapphire-LN transformer">
   <img src="images/transformer-displacement.png" alt="Simulated displacement of the LN-sapphire-LN transformer" width="1315" height="442" loading="lazy" decoding="async">
 </a>
+<figcaption>Simulated displacement of the LN-sapphire-LN transformer</figcaption>
+</figure>
+<figure class="project-figure">
 <a href="images/transformer-materials.png" title="Comparison of piezoelectric and isolation-layer material properties">
   <img src="images/transformer-materials.png" alt="Comparison of piezoelectric and isolation-layer material properties" width="1125" height="304" loading="lazy" decoding="async">
 </a>
+<figcaption>Comparison of piezoelectric and isolation-layer material properties</figcaption>
+</figure>
+<figure class="project-figure">
 <a href="images/transformer-admittance.png" title="Two-port transformer admittance spectra">
   <img src="images/transformer-admittance.png" alt="Two-port transformer admittance spectra" width="871" height="530" loading="lazy" decoding="async">
 </a>
+<figcaption>Two-port transformer admittance spectra</figcaption>
+</figure>
 </div>
 </div>
 <div class="paper-box-text" markdown="1">
@@ -118,15 +133,24 @@ Advised by Prof. [Ruochen Lu](https://scholar.google.com/citations?hl=en&user=yJ
 <div class='paper-box'>
 <div class="paper-box-image">
 <div class="project-figures">
+<figure class="project-figure">
 <a href="images/buck-plecs-model.png" title="PLECS buck converter model with loop-gain measurement">
   <img src="images/buck-plecs-model.png" alt="PLECS buck converter model with loop-gain measurement" width="1016" height="406" loading="lazy" decoding="async">
 </a>
+<figcaption>PLECS buck converter model with loop-gain measurement</figcaption>
+</figure>
+<figure class="project-figure">
 <a href="images/buck-controller.png" title="Buck converter feedback controller model">
   <img src="images/buck-controller.png" alt="Buck converter feedback controller model" width="1016" height="235" loading="lazy" decoding="async">
 </a>
+<figcaption>Buck converter feedback controller model</figcaption>
+</figure>
+<figure class="project-figure">
 <a href="images/buck-loop-gain.png" title="Buck converter loop-gain magnitude and phase analysis">
   <img src="images/buck-loop-gain.png" alt="Buck converter loop-gain magnitude and phase analysis" width="762" height="444" loading="lazy" decoding="async">
 </a>
+<figcaption>Buck converter loop-gain magnitude and phase analysis</figcaption>
+</figure>
 </div>
 </div>
 <div class="paper-box-text" markdown="1">
@@ -146,9 +170,12 @@ Advised by Prof. [Yicheng Zhu](https://scholar.google.com/citations?user=XdHExrY
 <div class='paper-box'>
 <div class="paper-box-image">
 <div class="project-figures">
+<figure class="project-figure">
 <a href="images/mems-fabrication.png" title="Wafer-level fabrication and photolithography process for MEMS gas sensor arrays">
   <img src="images/mems-fabrication.png" alt="Wafer-level fabrication and photolithography process for MEMS gas sensor arrays" width="1341" height="943" loading="lazy" decoding="async">
 </a>
+<figcaption>Wafer-level fabrication and photolithography process for MEMS gas sensor arrays</figcaption>
+</figure>
 </div>
 </div>
 <div class="paper-box-text" markdown="1">
@@ -164,9 +191,12 @@ Advised by Prof. [Fei Wang](https://scholar.google.com/citations?hl=en&user=xd7l
 
 </div>
 <div class="paper-box-wide-figure">
+<figure class="project-figure">
 <a href="images/mems-sensor-results.png" title="MEMS sensor response patterns and SVM concentration prediction results">
   <img src="images/mems-sensor-results.png" alt="MEMS sensor response patterns and SVM concentration prediction results" width="2086" height="808" loading="lazy" decoding="async">
 </a>
+<figcaption>MEMS sensor response patterns and SVM concentration prediction results</figcaption>
+</figure>
 </div>
 </div>
 

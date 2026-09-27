@@ -167,3 +167,22 @@ h1, h2, h3, h4, h5, h6,
 .greedy-nav a:hover {
   color: #111111;
 }
+
+.paper-box .project-figure {
+  display: block;
+  min-width: 0;
+  margin: 0;
+}
+
+.paper-box .project-figure img {
+  margin: 0;
+}
+
+.paper-box .project-figure figcaption {
+  margin: 0.35rem 0 0;
+  color: #444444;
+  font-family: inherit;
+  font-size: 0.8rem;
+  line-height: 1.4;
+  text-align: center;
+}

@@ -150,3 +150,20 @@ h1:before, .anchor:before {
   order: 3;
   margin: 0.25rem auto 0;
 }
+
+body {
+  color: #222222;
+}
+
+h1, h2, h3, h4, h5, h6,
+.paper-box-text > p:first-child > strong {
+  color: #111111;
+}
+
+.greedy-nav a {
+  color: #222222;
+}
+
+.greedy-nav a:hover {
+  color: #111111;
+}

@@ -16,6 +16,7 @@ redirect_from:
 <p>I received my B.E. with Honors in Microelectronics in July 2025 at <strong>Southern University of Science and Technology</strong> (<strong>SUSTech</strong>), a young university established in 2010 in Shenzhen, China (<a href="https://www.nature.com/articles/nature.2012.10631" target="_blank" rel="noopener noreferrer">a short story about SUSTech</a>). During my undergraduate studies, I conducted research on MEMS-based gas sensors under the supervision of <a href="https://scholar.google.com/citations?hl=en&amp;user=xd7lNYEAAAAJ" target="_blank" rel="noopener noreferrer">Prof. Fei Wang</a>.</p>
 <p>I have experience in <strong>IC-level</strong> design and simulation (e.g., Cadence Virtuoso), <strong>device-level</strong> simulation (e.g., COMSOL Multiphysics), <strong>system-level</strong> design and prototyping (e.g., KiCad, PLECS, Code Composer Studio (CCS)), as well as <strong>cleanroom-based</strong> device fabrication.</p>
 <p class="phd-notice">I am seeking Ph.D. opportunities in Power Electronics for Fall 2027.</p>
+<p>Please feel free to contact me at <a href="mailto:xitongsun@utexas.edu">xitongsun@utexas.edu</a>.</p>
 </section>
 <section class="home-section" aria-labelledby="research-and-publications">
 <h2 id="research-and-publications">📝 Research</h2>

@@ -1,21 +1,11 @@
 main:
-  - title: "About Me"
-    url: "/#about-me"
-
-  - title: "Education"
-    url: "/#education"
-
   - title: "Research"
     url: "/#research-and-publications"
-
-  - title: "Coursework"
+  - title: "Publications"
+    url: "/#publications"
+  - title: "Course Projects"
     url: "/#course-experience"
-
-  - title: "Awards"
-    url: "/#honors-and-awards"
-
-  - title: "News"
-    url: "/#news"
-
-  - title: "Play Hard😎"
-    url: "/#play-hard"
+  - title: "CV"
+    url: "/files/CV_Xitong_Sun.pdf"
+  - title: "Personal"
+    url: "/personal/"

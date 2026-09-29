@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="760" viewBox="0 0 1120 760" role="img" aria-labelledby="title desc">
+  <title id="title">Multiphase buck converter control architecture</title>
+  <desc id="desc">Conceptual interleaved synchronous buck architecture. Parallel half-bridge and inductor phases feed a common output capacitor and load. Output voltage feedback enters a controller with voltage-mode, current-mode, constant-on-time and V-squared strategies, followed by phase coordination and gate timing. The drawing is an architecture schematic, not a simulation result.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="#244f78"/></marker>
+    <marker id="signal" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0 0 L7 3.5 L0 7 Z" fill="#5b6f82"/></marker>
+  </defs>
+  <rect width="1120" height="760" fill="#fff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#172534">
+    <text x="38" y="48" font-size="26" font-weight="700">Multiphase buck converter</text>
+    <text x="38" y="78" font-size="18" fill="#526174">Conceptual power stage and feedback paths</text>
+    <g fill="none" stroke="#244f78" stroke-width="4">
+      <path d="M80 160 V410 M80 165 H175 M80 280 H175 M80 395 H175"/>
+      <path d="M645 165 H845 V395 H645 M645 280 H985"/>
+    </g>
+    <text x="47" y="140" font-size="23" font-weight="700">V<tspan baseline-shift="sub" font-size="16">in</tspan></text>
+    <g fill="#f3f6fa" stroke="#adc0d0" stroke-width="2">
+      <rect x="175" y="125" width="470" height="80" rx="9"/>
+      <rect x="175" y="240" width="470" height="80" rx="9"/>
+      <rect x="175" y="355" width="470" height="80" rx="9"/>
+    </g>
+    <g font-size="21">
+      <text x="195" y="159" font-weight="700">Phase 1</text><text x="195" y="186" font-size="17">switching leg</text>
+      <text x="195" y="274" font-weight="700">Phase 2</text><text x="195" y="301" font-size="17">switching leg</text>
+      <text x="195" y="389" font-weight="700">Phase N</text><text x="195" y="416" font-size="17">switching leg</text>
+      <text x="340" y="173">Half-bridge</text><text x="340" y="288">Half-bridge</text><text x="340" y="403">Half-bridge</text>
+    </g>
+    <g stroke="#244f78" stroke-width="3" fill="none">
+      <path d="M455 165 H485 q0 -18 12 -18 q12 0 12 18 q0 -18 12 -18 q12 0 12 18 q0 -18 12 -18 q12 0 12 18 H645"/>
+      <path d="M455 280 H485 q0 -18 12 -18 q12 0 12 18 q0 -18 12 -18 q12 0 12 18 q0 -18 12 -18 q12 0 12 18 H645"/>
+      <path d="M455 395 H485 q0 -18 12 -18 q12 0 12 18 q0 -18 12 -18 q12 0 12 18 q0 -18 12 -18 q12 0 12 18 H645"/>
+      <path d="M895 280 V329 M873 329 H917 M873 340 H917 M895 340 V425 H985 V392 M985 280 V325"/>
+      <rect x="973" y="325" width="24" height="67"/>
+      <path d="M942 425 V438 M924 438 H960 M930 446 H954 M936 454 H948"/>
+    </g>
+    <g font-size="20">
+      <text x="510" y="192">L₁</text><text x="510" y="307">L₂</text><text x="510" y="422">Lₙ</text>
+      <text x="694" y="150">i₁</text><text x="694" y="264">i₂</text><text x="694" y="421">iₙ</text>
+      <text x="918" y="353">C</text><text x="1010" y="364">Load</text>
+      <text x="951" y="253" font-size="23" font-weight="700">V<tspan baseline-shift="sub" font-size="16">out</tspan></text>
+    </g>
+    <g fill="#244f78"><circle cx="845" cy="280" r="5"/><circle cx="895" cy="280" r="5"/><circle cx="985" cy="280" r="5"/></g>
+    <text x="415" y="343" font-size="23" text-anchor="middle" fill="#687b8e">⋮</text>
+    <g fill="#fff" stroke="#adc0d0" stroke-width="2">
+      <rect x="400" y="515" width="400" height="128" rx="9"/>
+      <rect x="100" y="532" width="250" height="95" rx="9"/>
+    </g>
+    <text x="600" y="548" font-size="21" font-weight="700" text-anchor="middle">Feedback control</text>
+    <text x="600" y="582" font-size="19" text-anchor="middle">Voltage-mode · Current-mode</text>
+    <text x="600" y="614" font-size="19" text-anchor="middle">COT · V²</text>
+    <text x="225" y="567" font-size="20" font-weight="700" text-anchor="middle">Phase coordination</text>
+    <text x="225" y="598" font-size="20" text-anchor="middle">and gate timing</text>
+    <g fill="none" stroke="#5b6f82" stroke-width="2.5" marker-end="url(#signal)">
+      <path d="M985 280 H1070 V580 H805"/>
+      <path d="M400 580 H355"/>
+      <path d="M600 697 V648"/>
+    </g>
+    <g fill="none" stroke="#5b6f82" stroke-width="2.5" stroke-dasharray="6 5" marker-end="url(#signal)">
+      <path d="M140 532 V477 H155 V220 H230 V207"/>
+      <path d="M155 335 H230 V322"/><path d="M155 450 H230 V437"/>
+    </g>
+    <text x="825" y="567" font-size="17">voltage feedback</text>
+    <circle cx="745" cy="395" r="10" fill="none" stroke="#5b6f82" stroke-width="2"/>
+    <path d="M745 405 V480 H720 V510" fill="none" stroke="#5b6f82" stroke-width="2.5" stroke-dasharray="6 5" marker-end="url(#signal)"/>
+    <text x="474" y="470" font-size="17" fill="#526174">Phase-current feedback*</text>
+    <text x="38" y="499" font-size="17">gate signals</text>
+    <text x="616" y="690" font-size="20">V<tspan baseline-shift="sub" font-size="14">ref</tspan></text>
+    <text x="38" y="737" font-size="17" fill="#526174">Schematic only. *Current sensing and gate timing depend on the selected control strategy.</text>
+  </g>
+</svg>

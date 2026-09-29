@@ -13,8 +13,7 @@ redirect_from:
 <p class="intro-role">M.S. student in Mechanical Engineering</p>
 <p>Hey! Glad you’re here!</p>
 <p>I study <strong>power electronics based on piezoelectric passive components</strong> with <a href="https://scholar.google.com/citations?hl=en&amp;user=yJo453cAAAAJ" target="_blank" rel="noopener noreferrer">Prof. Ruochen Lu</a>, and have worked on <strong>modeling and control of high-performance power converters</strong> with <a href="https://scholar.google.com/citations?user=XdHExrYAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener noreferrer">Prof. Yicheng Zhu</a>.</p>
-<p>I received my B.E. with Honors in Microelectronics in July 2025 at <strong>Southern University of Science and Technology</strong> (<strong>SUSTech</strong>), a young university established in 2010 in Shenzhen, China (<a href="https://www.nature.com/articles/nature.2012.10631" target="_blank" rel="noopener noreferrer">a short story about SUSTech</a>). During my undergraduate studies, I conducted research on MEMS-based gas sensors under the supervision of <a href="https://scholar.google.com/citations?hl=en&amp;user=xd7lNYEAAAAJ" target="_blank" rel="noopener noreferrer">Prof. Fei Wang</a>.</p>
-<p>In August 2025, I was proud to join the University of Texas at Austin as a member of the Longhorns and begin my M.S. studies in Mechanical Engineering.</p>
+<p>I received my B.E. with Honors in Microelectronics in July 2025 at <strong>Southern University of Science and Technology</strong> (<strong>SUSTech</strong>), a young university established in 2010 in Shenzhen, China (<a href="https://www.nature.com/articles/nature.2012.10631" target="_blank" rel="noopener noreferrer">a short story about SUSTech</a>). During my undergraduate studies, I conducted research on MEMS-based gas sensors under the supervision of <a href="https://scholar.google.com/citations?hl=en&amp;user=xd7lNYEAAAAJ" target="_blank" rel="noopener noreferrer">Prof. Fei Wang</a>. In August 2025, I was proud to join <strong>the University of Texas at Austin</strong> as a member of the Longhorns and begin my M.S. studies in Mechanical Engineering.</p>
 <p>I have experience in <strong>IC-level</strong> design and simulation (e.g., Cadence Virtuoso), <strong>device-level</strong> simulation (e.g., COMSOL Multiphysics), <strong>system-level</strong> design and prototyping (e.g., KiCad, PLECS, Code Composer Studio (CCS)), as well as <strong>cleanroom-based</strong> device fabrication.</p>
 <p class="phd-notice">I am seeking Ph.D. opportunities in Power Electronics for Fall 2027.</p>
 <p>Please feel free to contact me at <a href="mailto:xitongsun@utexas.edu">xitongsun@utexas.edu</a>.</p>
@@ -24,7 +23,7 @@ redirect_from:
 <section class="research-project" id="piezoelectric-resonators" aria-labelledby="piezoelectric-resonators-title">
 <div class="project-copy">
 <h3 id="piezoelectric-resonators-title">Conductive-Silicon-Packaged Piezoelectric Resonators</h3>
-<p class="project-meta"><a href="https://scholar.google.com/citations?hl=en&amp;user=yJo453cAAAAJ" target="_blank" rel="noopener noreferrer">Prof. Ruochen Lu</a> · UT Austin<br><time>Apr. 2026 – Present</time></p>
+<p class="project-meta">Advised by <a href="https://scholar.google.com/citations?hl=en&amp;user=yJo453cAAAAJ" target="_blank" rel="noopener noreferrer">Prof. Ruochen Lu</a> · UT Austin<br><time>Apr. 2026 – Present</time></p>
 <p class="project-summary">A conductive-silicon package for LiNbO<sub>3</sub> resonators, designed to improve power handling and heat dissipation while avoiding electrode breakdown.</p>
 <ul><li>Demonstrated capacitive excitation through Si–LN air gaps, retaining <strong>95% of bare-LN Q and 99% of k<sup>2</sup></strong>.</li><li>Fabricated Si–LN–Si prototypes using Au–Au, BCB, photoresist and Crystalbond bonding, and evaluated their effects on resonator performance.</li><li>Evaluated packaging effects on power handling and thermal performance under high-power excitation.</li></ul>
 </div>
@@ -39,7 +38,7 @@ redirect_from:
 </section><section class="research-project" id="isolation-transformers" aria-labelledby="isolation-transformers-title">
 <div class="project-copy">
 <h3 id="isolation-transformers-title">Vertically Stacked LiNbO<sub>3</sub> Isolation Transformers</h3>
-<p class="project-meta"><a href="https://scholar.google.com/citations?hl=en&amp;user=yJo453cAAAAJ" target="_blank" rel="noopener noreferrer">Prof. Ruochen Lu</a> · UT Austin<br><time>Mar. 2026 – Present</time></p>
+<p class="project-meta">Advised by <a href="https://scholar.google.com/citations?hl=en&amp;user=yJo453cAAAAJ" target="_blank" rel="noopener noreferrer">Prof. Ruochen Lu</a> · UT Austin<br><time>Mar. 2026 – Present</time></p>
 <p class="project-summary">An LN–sapphire–LN transformer for mechanically coupled power transfer across an electrically insulating layer.</p>
 <ul><li>Simulated mode shapes and admittance spectra for 36°, 128° and 163° Y-cut LN in COMSOL; optimized layer thicknesses for half-wavelength resonance.</li><li>Fabricated two-port prototypes and designed test PCBs with corner-fixed mounting and wire-bonded interconnects.</li><li><strong>Characterization in progress:</strong> VNA-based resonance, Q and k<sup>2</sup>; nonlinearity, power handling, temperature coefficient of frequency and power-transfer efficiency.</li></ul>
 </div>
@@ -54,7 +53,7 @@ redirect_from:
 </section><section class="research-project" id="multiphase-buck" aria-labelledby="multiphase-buck-title">
 <div class="project-copy">
 <h3 id="multiphase-buck-title">Modeling and Control of Multiphase Buck Converters</h3>
-<p class="project-meta"><a href="https://scholar.google.com/citations?user=XdHExrYAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener noreferrer">Prof. Yicheng Zhu</a> · UT Austin<br><time>Feb. 2026 – Jun. 2026</time></p>
+<p class="project-meta">Advised by <a href="https://scholar.google.com/citations?user=XdHExrYAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener noreferrer">Prof. Yicheng Zhu</a> · UT Austin<br><time>Feb. 2026 – Jun. 2026</time></p>
 <p class="project-summary">A modeling and simulation study of how feedback-control strategies affect multiphase buck dynamics and regulation.</p>
 <ul><li>Developed state-space averaged and small-signal models for converter dynamics and feedback-controller design.</li><li>Implemented <strong>voltage-mode, current-mode, COT and V<sup>2</sup> control</strong> in PLECS, and assessed stability in the frequency domain and regulation in the time domain.</li><li>Compared voltage deviation, settling time and implementation complexity across control strategies.</li></ul>
 </div>
@@ -66,7 +65,7 @@ redirect_from:
 </section><section class="research-project" id="mems-sensors" aria-labelledby="mems-sensors-title">
 <div class="project-copy">
 <h3 id="mems-sensors-title">MEMS Gas Sensor Arrays with Wafer-Level Material Patterning</h3>
-<p class="project-meta"><a href="https://scholar.google.com/citations?hl=en&amp;user=xd7lNYEAAAAJ" target="_blank" rel="noopener noreferrer">Prof. Fei Wang</a> · SUSTech<br><time>Jun. 2023 – Apr. 2025</time></p>
+<p class="project-meta">Advised by <a href="https://scholar.google.com/citations?hl=en&amp;user=xd7lNYEAAAAJ" target="_blank" rel="noopener noreferrer">Prof. Fei Wang</a> · SUSTech<br><time>Jun. 2023 – Apr. 2025</time></p>
 <p class="project-summary">Wafer-level fabrication and data-driven gas identification using multi-material MEMS sensor arrays.</p>
 <ul><li>Optimized a backside-etched microheater, reducing heating power by <strong>25%</strong> relative to the frontside-etched design.</li><li>Developed multi-step photolithography to pattern multiple gas-sensing materials; fabricated arrays through lithography, deposition and etching.</li><li>Applied SVM models to sensor responses, achieving <strong>100% classification accuracy and R<sup>2</sup> ≥ 0.98</strong> for concentration prediction on a test set.</li></ul>
 </div>

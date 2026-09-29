@@ -1,292 +1,127 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Xitong Sun — Power Electronics Research"
+excerpt: "M.S. student at UT Austin working on piezoelectric power electronics and converter modeling and control."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
-
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span>
-
-Hey! Glad you’re here!
-
-I’m Xitong Sun, an <strong>M.S.</strong> student in
-<strong>Mechanical Engineering</strong> at 
-<strong>University of Texas at Austin</strong>.
-
-I received my B.E. with Honors in Microelectronics in July 2025 at
-<strong>Southern University of Science and Technology</strong> (<strong>SUSTech</strong>), 
-a young university established in 2010 in Shenzhen, China 
-(<a href="https://www.nature.com/articles/nature.2012.10631" target="_blank">a short story about SUSTech</a>). 
-During my undergraduate studies, I conducted research on MEMS-based gas sensors under the supervision of 
-<a href="https://scholar.google.com/citations?hl=en&user=xd7lNYEAAAAJ" target="_blank">Prof. Fei Wang</a>.
-
-In August 2025, I was proud to join the University of Texas at Austin as a member of the 
-longhorns and begin my M.S. studies in Mechanical Engineering.
-Since then, I have explored a range of research areas, and my current interests focus on
-<strong>power electronics based on piezoelectric passive components</strong>
-(advised by <a href="https://scholar.google.com/citations?hl=en&amp;user=yJo453cAAAAJ" target="_blank" rel="noopener noreferrer">Prof. Ruochen Lu</a>),
-as well as <strong>advanced modeling and control techniques for high-performance power electronics</strong>
-(advised by <a href="https://scholar.google.com/citations?user=XdHExrYAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener noreferrer">Prof. Yicheng Zhu</a>).
-
-I have experience in <strong>IC-level</strong> design and simulation (e.g., Cadence Virtuoso),
-<strong>device-level</strong> simulation (e.g., COMSOL Multiphysics),
-<strong>system-level</strong> design and prototyping (e.g., KiCad, PLECS, Code Composer Studio (CCS)),
-as well as <strong>cleanroom-based</strong> device fabrication.
-
-<p style="font-size: 1.5em; line-height: 1.5;"><strong style="font-weight: 800;">I am seeking Ph.D. opportunities in Power Electronics for Fall 2027.</strong></p>
-
-Please feel free to contact me at **xitongsun@utexas.edu**
-
-
-
-
-<span class='anchor' id='education'></span>
-# 📖 Education
-- *2025.08 - now*, M.S. Student in Mechanical Engineering, The University of Texas at Austin (UT).
-- *2021.08 - 2025.07*, B.E. with Honors in Microelectronics, Southern University of Science and Technology (SUSTech).
-- *2023.06 – 2023.08* Summer Session, University of California, Berkeley.
-
-
-<span class='anchor' id='research-and-publications'></span>
-# 📝 Research and Publications 
-
-<div class='paper-box'>
-<div class="paper-box-image">
-<div class="project-figures">
-<figure class="project-figure">
-<a href="images/resonator-stack.png" title="Layer structure of the conductive-silicon-packaged resonator">
-  <img src="images/resonator-stack.png" alt="Layer structure of the conductive-silicon-packaged resonator" width="844" height="286" loading="lazy" decoding="async">
-</a>
-<figcaption>Layer structure of the conductive-silicon-packaged resonator</figcaption>
-</figure>
-<figure class="project-figure">
-<a href="images/resonator-frequency-response.png" title="Frequency response of the packaged resonator">
-  <img src="images/resonator-frequency-response.png" alt="Frequency response of the packaged resonator" width="826" height="531" loading="lazy" decoding="async">
-</a>
-<figcaption>Frequency response of the packaged resonator</figcaption>
-</figure>
+<section class="intro" id="about-me" aria-labelledby="intro-title">
+<p class="eyebrow">The University of Texas at Austin</p>
+<h1 id="intro-title">Xitong Sun</h1>
+<p class="intro-role">M.S. student in Mechanical Engineering</p>
+<p>I study <strong>power electronics based on piezoelectric passive components</strong> with <a href="https://scholar.google.com/citations?hl=en&amp;user=yJo453cAAAAJ" target="_blank" rel="noopener noreferrer">Prof. Ruochen Lu</a>, and have worked on <strong>modeling and control of high-performance power converters</strong> with <a href="https://scholar.google.com/citations?user=XdHExrYAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener noreferrer">Prof. Yicheng Zhu</a>.</p>
+<p>My experience spans device simulation and cleanroom fabrication, converter modeling, and circuit design and prototyping. I received my B.E. with Honors in Microelectronics from SUSTech in 2025, where I worked on MEMS gas sensors with <a href="https://scholar.google.com/citations?hl=en&amp;user=xd7lNYEAAAAJ" target="_blank" rel="noopener noreferrer">Prof. Fei Wang</a>.</p>
+<p class="phd-notice">I am seeking Ph.D. opportunities in Power Electronics for Fall 2027.</p>
+<div class="profile-links"><a class="cv-link" href="/files/CV_Xitong_Sun.pdf" target="_blank" rel="noopener" download>Download CV (PDF)</a><a href="mailto:xitongsun@utexas.edu">Email</a><a href="https://scholar.google.com/citations?user=xz5gCMgAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a></div>
+<p class="updated-note">CV updated September 2026</p>
+</section>
+<section class="home-section" aria-labelledby="research-and-publications">
+<h2 id="research-and-publications">Research</h2>
+<section class="research-project" id="piezoelectric-resonators" aria-labelledby="piezoelectric-resonators-title">
+<div class="project-copy">
+<h3 id="piezoelectric-resonators-title">Conductive-Silicon-Packaged Piezoelectric Resonators</h3>
+<p class="project-meta"><a href="https://scholar.google.com/citations?hl=en&amp;user=yJo453cAAAAJ" target="_blank" rel="noopener noreferrer">Prof. Ruochen Lu</a> · UT Austin<br><time>Apr. 2026 – Present</time></p>
+<p class="project-summary">A conductive-silicon package for LiNbO<sub>3</sub> resonators, designed to improve power handling and heat dissipation while avoiding electrode breakdown.</p>
+<ul><li>Demonstrated capacitive excitation through Si–LN air gaps, retaining <strong>95% of bare-LN Q and 99% of k<sup>2</sup></strong>.</li><li>Fabricated Si–LN–Si prototypes using Au–Au, BCB, photoresist and Crystalbond bonding, and evaluated their effects on resonator performance.</li><li>Evaluated packaging effects on power handling and thermal performance under high-power excitation.</li></ul>
 </div>
+<div class="project-figures"><figure class="project-figure">
+<a class="figure-image" href="/images/resonator-stack.png" title="Layer structure of the Si–LN–Si packaged resonator."><img src="/images/resonator-stack.png" width="844" height="286" alt="Layer structure of the Si–LN–Si packaged resonator." loading="lazy" decoding="async"></a>
+<figcaption>Layer structure of the Si–LN–Si packaged resonator.</figcaption>
+</figure><figure class="project-figure">
+<a class="figure-image" href="/images/resonator-frequency-response.png" title="Measured frequency response of the packaged resonator; Q and coupling estimates are annotated."><img src="/images/resonator-frequency-response.png" width="826" height="531" alt="Measured frequency response of the packaged resonator; Q and coupling estimates are annotated." loading="lazy" decoding="async"></a>
+<figcaption>Measured frequency response of the packaged resonator; Q and coupling estimates are annotated.</figcaption>
+</figure></div>
+
+</section><section class="research-project" id="isolation-transformers" aria-labelledby="isolation-transformers-title">
+<div class="project-copy">
+<h3 id="isolation-transformers-title">Vertically Stacked LiNbO<sub>3</sub> Isolation Transformers</h3>
+<p class="project-meta"><a href="https://scholar.google.com/citations?hl=en&amp;user=yJo453cAAAAJ" target="_blank" rel="noopener noreferrer">Prof. Ruochen Lu</a> · UT Austin<br><time>Mar. 2026 – Present</time></p>
+<p class="project-summary">An LN–sapphire–LN transformer for mechanically coupled power transfer across an electrically insulating layer.</p>
+<ul><li>Simulated mode shapes and admittance spectra for 36°, 128° and 163° Y-cut LN in COMSOL; optimized layer thicknesses for half-wavelength resonance.</li><li>Fabricated two-port prototypes and designed test PCBs with corner-fixed mounting and wire-bonded interconnects.</li><li><strong>Characterization in progress:</strong> VNA-based resonance, Q and k<sup>2</sup>; nonlinearity, power handling, temperature coefficient of frequency and power-transfer efficiency.</li></ul>
 </div>
-<div class="paper-box-text" markdown="1">
+<div class="project-figures"><figure class="project-figure">
+<a class="figure-image" href="/images/transformer-displacement.png" title="Simulated displacement of the LN–sapphire–LN transformer."><img src="/images/transformer-displacement.png" width="1315" height="442" alt="Simulated displacement of the LN–sapphire–LN transformer." loading="lazy" decoding="async"></a>
+<figcaption>Simulated displacement of the LN–sapphire–LN transformer.</figcaption>
+</figure><figure class="project-figure">
+<a class="figure-image" href="/images/transformer-admittance.png" title="Measured two-port admittance spectra of the transformer."><img src="/images/transformer-admittance.png" width="871" height="530" alt="Measured two-port admittance spectra of the transformer." loading="lazy" decoding="async"></a>
+<figcaption>Measured two-port admittance spectra of the transformer.</figcaption>
+</figure></div>
 
-**Conductive-Silicon-Packaged Piezoelectric Resonators**
-
-Advised by Prof. [Ruochen Lu](https://scholar.google.com/citations?hl=en&user=yJo453cAAAAJ), UT<br>
-*Apr. 2026 – Present*
-
-- Designed a conductive-silicon package for piezoelectric resonators, demonstrated with LiNbO<sub>3</sub> in a Si–LN–Si stack, to improve power handling, avoid electrode breakdown and enhance heat dissipation.
-- Demonstrated capacitive excitation of LN through Si–LN air gaps using conductive Si electrodes, retaining 95% and 99% of the bare-LN Q and k<sup>2</sup>, respectively.
-- Fabricated Si–LN–Si resonator prototypes using different bonding methods (Au–Au, BCB, photoresist, and Crystalbond) and evaluated their effects on resonator performance.
-- Evaluated packaging effects on power handling and thermal performance under high-power excitation.
-
+</section><section class="research-project" id="multiphase-buck" aria-labelledby="multiphase-buck-title">
+<div class="project-copy">
+<h3 id="multiphase-buck-title">Modeling and Control of Multiphase Buck Converters</h3>
+<p class="project-meta"><a href="https://scholar.google.com/citations?user=XdHExrYAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener noreferrer">Prof. Yicheng Zhu</a> · UT Austin<br><time>Feb. 2026 – Jun. 2026</time></p>
+<p class="project-summary">A modeling and simulation study of how feedback-control strategies affect multiphase buck dynamics and regulation.</p>
+<ul><li>Developed state-space averaged and small-signal models for converter dynamics and feedback-controller design.</li><li>Implemented <strong>voltage-mode, current-mode, COT and V<sup>2</sup> control</strong> in PLECS, and assessed stability in the frequency domain and regulation in the time domain.</li><li>Compared voltage deviation, settling time and implementation complexity across control strategies.</li></ul>
 </div>
+<div class="project-figures"><figure class="project-figure">
+<a class="figure-image" href="/images/multiphase-buck-architecture.svg" title="Conceptual multiphase buck architecture. This schematic illustrates the research topic; it is not a simulation result."><img src="/images/multiphase-buck-architecture.svg" width="1120" height="760" alt="Conceptual multiphase buck architecture. This schematic illustrates the research topic; it is not a simulation result." loading="lazy" decoding="async"></a>
+<figcaption>Conceptual multiphase buck architecture. This schematic illustrates the research topic; it is not a simulation result.</figcaption>
+</figure></div>
+
+</section><section class="research-project" id="mems-sensors" aria-labelledby="mems-sensors-title">
+<div class="project-copy">
+<h3 id="mems-sensors-title">MEMS Gas Sensor Arrays with Wafer-Level Material Patterning</h3>
+<p class="project-meta"><a href="https://scholar.google.com/citations?hl=en&amp;user=xd7lNYEAAAAJ" target="_blank" rel="noopener noreferrer">Prof. Fei Wang</a> · SUSTech<br><time>Jun. 2023 – Apr. 2025</time></p>
+<p class="project-summary">Wafer-level fabrication and data-driven gas identification using multi-material MEMS sensor arrays.</p>
+<ul><li>Optimized a backside-etched microheater, reducing heating power by <strong>25%</strong> relative to the frontside-etched design.</li><li>Developed multi-step photolithography to pattern multiple gas-sensing materials; fabricated arrays through lithography, deposition and etching.</li><li>Applied SVM models to sensor responses, achieving <strong>100% classification accuracy and R<sup>2</sup> ≥ 0.98</strong> for concentration prediction on a test set.</li></ul>
 </div>
-
-<div class='paper-box'>
-<div class="paper-box-image">
-<div class="project-figures">
-<figure class="project-figure">
-<a href="images/transformer-displacement.png" title="Simulated displacement of the LN-sapphire-LN transformer">
-  <img src="images/transformer-displacement.png" alt="Simulated displacement of the LN-sapphire-LN transformer" width="1315" height="442" loading="lazy" decoding="async">
-</a>
-<figcaption>Simulated displacement of the LN-sapphire-LN transformer</figcaption>
-</figure>
-<figure class="project-figure">
-<a href="images/transformer-materials.png" title="Comparison of piezoelectric and isolation-layer material properties">
-  <img src="images/transformer-materials.png" alt="Comparison of piezoelectric and isolation-layer material properties" width="1125" height="304" loading="lazy" decoding="async">
-</a>
-<figcaption>Comparison of piezoelectric and isolation-layer material properties</figcaption>
-</figure>
-<figure class="project-figure">
-<a href="images/transformer-admittance.png" title="Two-port transformer admittance spectra">
-  <img src="images/transformer-admittance.png" alt="Two-port transformer admittance spectra" width="871" height="530" loading="lazy" decoding="async">
-</a>
-<figcaption>Two-port transformer admittance spectra</figcaption>
-</figure>
-</div>
-</div>
-<div class="paper-box-text" markdown="1">
-
-**Vertically Stacked LiNbO<sub>3</sub> Isolation Transformers**
-
-Advised by Prof. [Ruochen Lu](https://scholar.google.com/citations?hl=en&user=yJo453cAAAAJ), UT<br>
-*Mar. 2026 – Present*
-
-- Designed a vertically stacked LN–sapphire–LN isolation transformer for mechanically coupled power transfer across an electrically insulating layer, targeting high power handling and high breakdown voltage.
-- Simulated mode shapes and admittance spectra of 36°, 128°, and 163° Y-cut LN in COMSOL; optimized layer thicknesses for half-wavelength resonance to improve acoustic transmission.
-- Fabricated two-port transformer prototypes and designed test PCBs with corner-fixed mounting and wire-bonded electrical interconnects.
-- Characterize resonance frequencies, Q, and k<sup>2</sup> using VNA measurements; evaluate nonlinearity, power handling, temperature coefficient of frequency (TCF), and power-transfer efficiency. (**In Progress**)
-
-</div>
-</div>
-
-<div class='paper-box'>
-<div class="paper-box-image">
-<div class="project-figures">
-<figure class="project-figure">
-<a href="images/buck-plecs-model.png" title="PLECS buck converter model with loop-gain measurement">
-  <img src="images/buck-plecs-model.png" alt="PLECS buck converter model with loop-gain measurement" width="1016" height="406" loading="lazy" decoding="async">
-</a>
-<figcaption>PLECS buck converter model with loop-gain measurement</figcaption>
-</figure>
-<figure class="project-figure">
-<a href="images/buck-controller.png" title="Buck converter feedback controller model">
-  <img src="images/buck-controller.png" alt="Buck converter feedback controller model" width="1016" height="235" loading="lazy" decoding="async">
-</a>
-<figcaption>Buck converter feedback controller model</figcaption>
-</figure>
-<figure class="project-figure">
-<a href="images/buck-loop-gain.png" title="Buck converter loop-gain magnitude and phase analysis">
-  <img src="images/buck-loop-gain.png" alt="Buck converter loop-gain magnitude and phase analysis" width="762" height="444" loading="lazy" decoding="async">
-</a>
-<figcaption>Buck converter loop-gain magnitude and phase analysis</figcaption>
-</figure>
-</div>
-</div>
-<div class="paper-box-text" markdown="1">
-
-**Modeling and Control of Multiphase Buck Converters**
-
-Advised by Prof. [Yicheng Zhu](https://scholar.google.com/citations?user=XdHExrYAAAAJ&hl=en&oi=ao), UT<br>
-*Feb. 2026 – Jun. 2026*
-
-- Developed state-space averaged and small-signal models of multiphase buck converters; analyzed converter dynamics and loop-gain characteristics for feedback-controller design.
-- Implemented voltage-mode, current-mode, COT and V<sup>2</sup> control in PLECS; evaluated closed-loop stability through frequency-domain analysis and dynamic regulation through time-domain simulations.
-- Compared transient responses across different control strategies, quantifying trade-offs in voltage deviation, settling time, and implementation complexity.
-
-</div>
-</div>
-
-<div class='paper-box'>
-<div class="paper-box-image">
-<div class="project-figures">
-<figure class="project-figure">
-<a href="images/mems-fabrication.png" title="Wafer-level fabrication and photolithography process for MEMS gas sensor arrays">
-  <img src="images/mems-fabrication.png" alt="Wafer-level fabrication and photolithography process for MEMS gas sensor arrays" width="1341" height="943" loading="lazy" decoding="async">
-</a>
-<figcaption>Wafer-level fabrication and photolithography process for MEMS gas sensor arrays</figcaption>
-</figure>
-</div>
-</div>
-<div class="paper-box-text" markdown="1">
-
-**MEMS Gas Sensor Arrays with Wafer-Level Material Patterning**
-
-Advised by Prof. [Fei Wang](https://scholar.google.com/citations?hl=en&user=xd7lNYEAAAAJ), SUSTech<br>
-*Jun. 2023 – Apr. 2025*
-
-- Optimized a backside-etched microheater structure, reducing heating power consumption by 25% compared with the frontside-etched design.
-- Developed a wafer-level multi-step photolithography process for patterning multiple gas-sensing materials on MEMS sensor arrays, and fabricated devices through lithography, deposition and etching.
-- Applied support vector machine (SVM) models to sensor-array responses, achieving 100% gas classification accuracy and R<sup>2</sup> ≥ 0.98 for concentration prediction on a test set.
-
-</div>
-<div class="paper-box-wide-figure">
-<figure class="project-figure">
-<a href="images/mems-sensor-results.png" title="MEMS sensor response patterns and SVM concentration prediction results">
-  <img src="images/mems-sensor-results.png" alt="MEMS sensor response patterns and SVM concentration prediction results" width="2086" height="808" loading="lazy" decoding="async">
-</a>
-<figcaption>MEMS sensor response patterns and SVM concentration prediction results</figcaption>
-</figure>
-</div>
-</div>
-
-## Publications
-
-- [MEMS Gas Sensor Arrays with Multilayer of Nanomaterials Patterned by Wafer-Level Photolithography Process](https://doi.org/10.1109/Transducers61432.2025.11110438), **X. Sun**, J. Li, T. Cheng, and F. Wang, **Transducers 2025**, Orlando, FL, USA.
-
-- [MEMS Gas Sensor with On-chip Electrospun Ru-SnO₂ Nanospheres Patterned by Photolithography](https://doi.org/10.1109/SENSORS60989.2024.10784716), J. Li, **X. Sun**, T. Cheng, and F. Wang, **IEEE SENSORS 2024**, Kobe, Japan.
-
-- [MEMS Acetone Gas Sensors with Eu-doped SnO₂/In₂O₃ Nanofibers Using Electrospinning and Lithography Patterning Technique](https://doi.org/10.1109/SENSORS60989.2024.10785144), T. Cheng, J. Li, G. Niu, **X. Sun**, and F. Wang, **IEEE SENSORS 2024**, Kobe, Japan.
-
-- [MEMS Gas Sensors with Metal-Oxide Semiconductor Materials Patterned at Wafer-Level by Photolithography Technique](https://doi.org/10.1109/SENSORS56945.2023.10324896), X. Liu, G. Niu, J. Li, Y. Zhuang, **X. Sun**, and F. Wang, **IEEE SENSORS 2023**, Vienna, Austria.
-
-<span class='anchor' id='course-experience'></span>
-# 📚 Course Experience
-
-## 24 V to 48 V Synchronous Boost Converter Prototype
-
-*Jan. 2026 – Jun. 2026*<br>
-Instructor: Prof. [Yicheng Zhu](https://scholar.google.com/citations?user=XdHExrYAAAAJ&hl=en&oi=ao)<br>
-Course: Power Electronic Devices and Systems
-
-- Designed and laid out a 250 W, 24 V to 48 V synchronous boost converter on a four-layer PCB in **KiCad**, minimizing high-di/dt commutation and gate-drive loop areas to reduce parasitic inductance.
-- Designed and built the power inductor and programmed a TI C2000 MCU for complementary PWM with dead time and synchronized ADC sensing of input/output voltages and inductor current.
-- Assembled and tested the converter under load; characterized switching waveforms, voltage/current ripple, and load-dependent efficiency. Achieved a peak conversion efficiency of 95.7%.
-
-## Synchronous Buck Converter Design with V<sup>2</sup> Peak Control
-
-*Sep. 2025 – Nov. 2025*<br>
-Instructor: Prof. [Alex Q. Huang](https://scholar.google.com/citations?user=yDDmPpwAAAAJ&hl=en)<br>
-Course: PMIC
-
-- Designed and simulated a synchronous buck converter with V<sup>2</sup> peak control in **Cadence Virtuoso**, operating in PWM mode at high load and PFM mode at light load for enhanced efficiency.
-- Integrated a complete control system, incorporating ramp generator, comparator, compensation network, gate driver with dead-time control, and OCP and OVP protection.
-- Optimized transistor sizing and passive component dimensions to minimize the overall design footprint.
-
-<span class='anchor' id='honors-and-awards'></span>
-# 🎖 Honors and Awards
-- *2025* Britton R. Birmingham Graduate Fellowship in Engineering, The University of Texas at Austin
-- *2025* Outstanding Undergraduate Graduate/Outstanding Undergraduate Thesis, Southern University of Science and Technology
-- *2024* National Scholarship, Ministry of Education of China
-- *2024, 2023* First-Class Scholarship, Southern University of Science and Technology
-
-
-<span class='anchor' id='news'></span>
-# 🔥 News
-- *2026.03:* Joined Prof. Ruochen Lu’s RAM Lab at UT. Grateful for this opportunity!
-- *2025.08:* Started my M.S. studies in Mechanical Engineering at The University of Texas at Austin!
-- *2025.08:* Awarded the Britton R. Birmingham Graduate Fellowship in Engineering at The University of Texas at Austin.
-- *2025.07:* Received my B.E. degree from SUSTech. Deeply grateful to Prof. Fei Wang and all members of the MEMS Group. I will always cherish my wonderful time at SUSTech.
-- *2025.06:* Received the Outstanding Undergraduate Graduate and Outstanding Undergraduate Thesis awards from Southern University of Science and Technology.
-- *2025.06:* My paper on MEMS gas sensor arrays was presented at Transducers 2025 in Orlando, Florida.
-- *2024.12:* Awarded the National Scholarship!
-- *2024.10:* My paper on MEMS gas sensors was presented at IEEE SENSORS 2024 in Kobe, Japan.
-
-
-<span class='anchor' id='play-hard'></span>
-
-# 😎 Play Hard
-I graduated from Southern University of Science and Technology in 2025. I am deeply grateful to all the teachers, friends and family members who supported me along the way. SUSTech gave me countless precious memories, which I will keep in my heart forever.
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin-top: 16px;">
-  <img src="images/sustech1.jpg" alt="SUSTech memory 1" style="width: 100%; height: 260px; object-fit: contain;">
-  <img src="images/sustech2.jpg" alt="SUSTech memory 2" style="width: 100%; height: 260px; object-fit: cover;">
-  <img src="images/sustech3.png" alt="SUSTech memory 3" style="width: 100%; height: 260px; object-fit: cover;">
-  <img src="images/sustech4.jpg" alt="SUSTech memory 4" style="width: 100%; height: 260px; object-fit: cover;">
-</div>
-
-<div style="height: 32px;"></div>
-
-I'm also a big fan of classical music. I spent four joyful years with the SUSTech Philharmonic, and one year as orchestra president. I participated in more than 20 performances. I also enjoy attending concerts and have heard memorable performances by the San Francisco Symphony Orchestra, New York Philharmonic, National Symphony Orchestra, Austin Symphony Orchestra, and West-Eastern Divan Orchestra. My favorite piece is Sibelius’s Violin Concerto in D minor.
-
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin-top: 20px; width: 100%;">
-  <img src="images/orchestra1.jpg" alt="SUSTech Philharmonic performance" style="width: 100%; height: 260px; object-fit: cover;">
-  <img src="images/orchestra2.jpg" alt="SUSTech Philharmonic memory" style="width: 100%; height: 260px; object-fit: cover;">
-  <img src="images/orchestra3.jpg" alt="Classical music performance" style="width: 100%; height: 260px; object-fit: cover;">
-</div>
-
-<div style="height: 32px;"></div>
-
-I also love traveling and exploring different landscapes. Yosemite is my favorite national park.
-
-
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-top: 10px;">
-  <img src="images/travel1.jpg" alt="Travel landscape 1" style="width: 100%; height: 220px; object-fit: cover;">
-  <img src="images/travel2.jpg" alt="Travel landscape 2" style="width: 100%; height: 220px; object-fit: cover;">
-  <img src="images/travel3.jpg" alt="Yosemite National Park" style="width: 100%; height: 220px; object-fit: cover;">
-  <img src="images/travel4.jpg" alt="Travel landscape 4" style="width: 100%; height: 220px; object-fit: cover;">
-  <img src="images/travel5.jpg" alt="Travel landscape 5" style="width: 100%; height: 220px; object-fit: cover;">
-  <img src="images/travel6.jpg" alt="Travel landscape 6" style="width: 100%; height: 220px; object-fit: cover;">
-</div>
-
-<p style="font-size: 1.7em; line-height: 1.5; text-align: center; margin-top: 64px; margin-bottom: 120px;"><strong style="font-weight: 800;">I am seeking Ph.D. opportunities in Power Electronics for Fall 2027.</strong></p>
+<div class="project-figures"><figure class="project-figure">
+<a class="figure-image crop-fabrication" href="/images/mems-fabrication.png" title="Wafer-level fabrication and material-patterning process. See the Transducers 2025 paper below."><img src="/images/mems-fabrication.png" width="1341" height="943" alt="Wafer-level fabrication and material-patterning process. See the Transducers 2025 paper below." loading="lazy" decoding="async"></a>
+<figcaption>Wafer-level fabrication and material-patterning process. See the Transducers 2025 paper below.</figcaption>
+</figure></div>
+<div class="project-wide"><figure class="project-figure">
+<a class="figure-image crop-results" href="/images/mems-sensor-results.png" title="Sensor response patterns and concentration prediction for ethanol and acetone. Results from the Transducers 2025 paper."><img src="/images/mems-sensor-results.png" width="2086" height="808" alt="Sensor response patterns and concentration prediction for ethanol and acetone. Results from the Transducers 2025 paper." loading="lazy" decoding="async"></a>
+<figcaption>Sensor response patterns and concentration prediction for ethanol and acetone. Results from the Transducers 2025 paper.</figcaption>
+</figure></div>
+</section>
+</section>
+<section class="home-section" aria-labelledby="publications">
+<h2 id="publications">Publications</h2>
+<ol class="publication-list"><li><a href="https://doi.org/10.1109/Transducers61432.2025.11110438" target="_blank" rel="noopener noreferrer">MEMS Gas Sensor Arrays with Multilayer of Nanomaterials Patterned by Wafer-Level Photolithography Process</a>, <strong>X. Sun</strong>, J. Li, T. Cheng, and F. Wang, <strong>Transducers 2025</strong>, Orlando, FL, USA.</li><li><a href="https://doi.org/10.1109/SENSORS60989.2024.10784716" target="_blank" rel="noopener noreferrer">MEMS Gas Sensor with On-chip Electrospun Ru-SnO₂ Nanospheres Patterned by Photolithography</a>, J. Li, <strong>X. Sun</strong>, T. Cheng, and F. Wang, <strong>IEEE SENSORS 2024</strong>, Kobe, Japan.</li><li><a href="https://doi.org/10.1109/SENSORS60989.2024.10785144" target="_blank" rel="noopener noreferrer">MEMS Acetone Gas Sensors with Eu-doped SnO₂/In₂O₃ Nanofibers Using Electrospinning and Lithography Patterning Technique</a>, T. Cheng, J. Li, G. Niu, <strong>X. Sun</strong>, and F. Wang, <strong>IEEE SENSORS 2024</strong>, Kobe, Japan.</li><li><a href="https://doi.org/10.1109/SENSORS56945.2023.10324896" target="_blank" rel="noopener noreferrer">MEMS Gas Sensors with Metal-Oxide Semiconductor Materials Patterned at Wafer-Level by Photolithography Technique</a>, X. Liu, G. Niu, J. Li, Y. Zhuang, <strong>X. Sun</strong>, and F. Wang, <strong>IEEE SENSORS 2023</strong>, Vienna, Austria.</li></ol>
+</section>
+<section class="home-section" aria-labelledby="course-experience">
+<h2 id="course-experience">Course Projects</h2>
+<section class="course-project" aria-labelledby="boost-title">
+<h3 id="boost-title">24 V to 48 V Synchronous Boost Converter Prototype</h3>
+<p class="project-meta">Jan. 2026 – Jun. 2026 · Power Electronic Devices and Systems<br>Instructor: <a href="https://scholar.google.com/citations?user=XdHExrYAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener noreferrer">Prof. Yicheng Zhu</a></p>
+<p>Built and tested a <strong>250 W converter with 95.7% peak conversion efficiency</strong>.</p>
+<ul><li>Designed a four-layer PCB in KiCad, minimizing high-di/dt commutation and gate-drive loop areas.</li><li>Designed and built the power inductor; programmed a TI C2000 MCU for complementary PWM, dead time and synchronized ADC sensing.</li><li>Characterized switching waveforms, voltage/current ripple and load-dependent efficiency.</li></ul>
+</section>
+<section class="course-project" aria-labelledby="pmic-title">
+<h3 id="pmic-title">Synchronous Buck Converter Design with V<sup>2</sup> Peak Control</h3>
+<p class="project-meta">Sep. 2025 – Nov. 2025 · Power Management Integrated Circuits<br>Instructor: <a href="https://scholar.google.com/citations?user=yDDmPpwAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Prof. Alex Q. Huang</a></p>
+<ul><li>Designed and simulated a synchronous buck converter in <strong>Cadence Virtuoso</strong>, using PWM at high load and PFM at light load.</li><li>Integrated a ramp generator, comparator, compensation network, gate driver with dead-time control, and overcurrent and overvoltage protection.</li><li>Optimized transistor sizing and passive component dimensions to reduce the design footprint.</li></ul>
+</section>
+<div class="skills-note"><h3>Technical experience</h3><p><strong>IC design:</strong> Cadence Virtuoso · <strong>Device simulation:</strong> COMSOL Multiphysics · <strong>Systems:</strong> KiCad, PLECS, Code Composer Studio · <strong>Fabrication:</strong> photolithography, deposition, etching and wafer bonding.</p></div>
+</section>
+<section class="home-section compact-section" aria-labelledby="education">
+<h2 id="education">Education</h2>
+<ul class="education-list"><li><strong>The University of Texas at Austin</strong><br>M.S. in Mechanical Engineering · Aug. 2025 – Present</li><li><strong>Southern University of Science and Technology</strong><br>B.E. with Honors in Microelectronics · Sep. 2021 – Jul. 2025</li></ul>
+</section>
+<section class="home-section compact-section" aria-labelledby="honors-and-awards">
+<h2 id="honors-and-awards">Honors and Awards</h2>
+<ul><li><strong>2025, 2026</strong> · Britton R. Birmingham Graduate Fellowship in Engineering, UT Austin</li><li><strong>2025</strong> · Outstanding Graduate / Outstanding Undergraduate Thesis, SUSTech</li><li><strong>2024</strong> · National Scholarship, Ministry of Education of China</li><li><strong>2023, 2024</strong> · First-Class Scholarship, SUSTech</li></ul>
+</section>
+<section class="home-section compact-section" aria-labelledby="news">
+<h2 id="news">Selected News</h2>
+<ul><li><strong>Mar. 2026</strong> · Joined Prof. Ruochen Lu’s RAM Lab at UT Austin.</li><li><strong>Aug. 2025</strong> · Began my M.S. studies at UT Austin.</li><li><strong>Jun. 2025</strong> · My work on MEMS gas sensor arrays was presented at Transducers 2025 in Orlando.</li></ul>
+</section>
+<section class="home-section" aria-labelledby="play-hard">
+<h2 id="play-hard">Outside Research</h2>
+<p class="reading-width">I enjoy classical music and exploring national parks. I spent four years with the SUSTech Philharmonic, including one year as orchestra president, and took part in more than 20 performances. Yosemite is my favorite national park.</p>
+<div class="personal-preview"><figure class="project-figure">
+<a class="figure-image" href="/images/sustech2.jpg" title="Graduation at SUSTech."><img src="/images/sustech2.jpg" width="3744" height="2496" alt="Graduation at SUSTech." loading="lazy" decoding="async"></a>
+<figcaption>Graduation at SUSTech.</figcaption>
+</figure><figure class="project-figure">
+<a class="figure-image" href="/images/orchestra1.jpg" title="With the SUSTech Philharmonic."><img src="/images/orchestra1.jpg" width="1921" height="1280" alt="With the SUSTech Philharmonic." loading="lazy" decoding="async"></a>
+<figcaption>With the SUSTech Philharmonic.</figcaption>
+</figure><figure class="project-figure">
+<a class="figure-image" href="/images/travel3.jpg" title="Yosemite National Park."><img src="/images/travel3.jpg" width="1279" height="1706" alt="Yosemite National Park." loading="lazy" decoding="async"></a>
+<figcaption>Yosemite National Park.</figcaption>
+</figure></div>
+<p class="personal-more"><a href="/personal/">More about life outside research →</a></p>
+</section>
+<footer class="academic-footer"><a href="mailto:xitongsun@utexas.edu">xitongsun@utexas.edu</a><span>Updated September 2026</span></footer>

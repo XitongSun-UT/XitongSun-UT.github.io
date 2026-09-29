@@ -14,6 +14,9 @@ var breaks = [];
 
 function updateNav() {
 
+  // Pages using the academic navigation do not have legacy menu elements.
+  if (!$nav.length || !$btn.length || !$vlinks.length || !$hlinks.length) return;
+
   var availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
 
   // The visible list is overflowing the nav

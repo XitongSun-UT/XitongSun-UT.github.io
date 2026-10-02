@@ -59,7 +59,7 @@ redirect_from:
 </div>
 <div class="project-figures"><figure class="project-figure">
 <a class="figure-image" href="/images/multiphase-buck-architecture.svg" title="Conceptual multiphase buck architecture. This schematic illustrates the research topic; it is not a simulation result."><img src="/images/multiphase-buck-architecture.svg" width="1120" height="760" alt="Conceptual multiphase buck architecture. This schematic illustrates the research topic; it is not a simulation result." loading="lazy" decoding="async"></a>
-<figcaption>Conceptual multiphase buck architecture. This schematic illustrates the research topic; it is not a simulation result.</figcaption>
+<figcaption>Conceptual multiphase buck architecture. </figcaption>
 </figure></div>
 
 </section><section class="research-project" id="mems-sensors" aria-labelledby="mems-sensors-title">
